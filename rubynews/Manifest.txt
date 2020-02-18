@@ -1,0 +1,8 @@
+CHANGELOG.md
+Manifest.txt
+README.md
+Rakefile
+lib/rubynews.rb
+lib/rubynews/version.rb
+test/helper.rb
+test/test_print.rb

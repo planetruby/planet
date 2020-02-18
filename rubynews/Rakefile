@@ -1,0 +1,30 @@
+require 'hoe'
+require './lib/rubynews/version.rb'
+
+Hoe.spec 'rubynews' do
+
+  self.version = RubyNews::VERSION
+
+  self.summary = "rubynews - what's news in the ruby world? browse week by week"
+  self.description = summary
+
+  self.urls    = ['https://github.com/planetruby/planet']
+
+  self.author  = 'Gerald Bauer'
+  self.email   = 'ruby-talk@ruby-lang.org'
+
+  # switch extension to .markdown for gihub formatting
+  self.readme_file  = 'README.md'
+  self.history_file = 'CHANGELOG.md'
+
+  self.extra_deps = [
+    ['whatson', '>=1.1.0']
+  ]
+
+  self.licenses = ['Public Domain']
+
+  self.spec_extras = {
+   required_ruby_version: '>= 2.2.2'
+  }
+
+end
