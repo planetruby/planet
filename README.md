@@ -1,13 +1,13 @@
 # Planet Ruby News Reader Subscriptions - All The World's Ruby News Feeds
 
 
-Feed list/configuration for Planet Ruby
+Feed list / configuration for Planet Ruby
 
 
-## Add Your Feed - How To
+
+## How To Add Your Feed  
 
 Step 1: Add your feed to the feed list (that is, [planet.ini](planet.ini)).
-
 
 Example:
 
@@ -20,6 +20,7 @@ Step 2: There's no Step 2 ;-).
 
 
 That's it. Wait for the next update. Welcome on Planet Ruby.
+
 
 
 
