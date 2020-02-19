@@ -1,6 +1,3 @@
-require 'pluto/news'
-require 'io/console'
-
 
 
 module RubyNews
@@ -50,7 +47,7 @@ class Tool
 
 
   def banner
-    puts "Welcome to Ruby News v1.0   (#{News.channels.count} Channels, #{News.items.count} Items)"
+    puts "Welcome to Ruby News v#{VERSION}   (#{News.channels.count} Channels, #{News.items.count} Items)"
   end
 
   def list
@@ -183,7 +180,3 @@ def self.main( args=ARGV )
   end
 end  #   method self.main
 end  # module RubyNews
-
-
-RubyNews.main
-
