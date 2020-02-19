@@ -16,7 +16,7 @@ Type:
 
     rubynews
 
-to run resulting in:
+to run. Resulting in:
 
 ```
 Welcome to Ruby News v1.0   (30 Channels, 940 Items)
