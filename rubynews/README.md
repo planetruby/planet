@@ -1,4 +1,4 @@
-# rubynews - what's news in the ruby world? browse week by week
+# rubynews - what's news in the ruby world? browse week by week - 30 channels, 940 items
 
 * home  :: [github.com/planetruby/planet](https://github.com/planetruby/planet)
 * bugs  :: [github.com/planetruby/planet/issues](https://github.com/planetruby/planet/issues)
