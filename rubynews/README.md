@@ -8,9 +8,6 @@
 
 ## Usage
 
-
-## Usage
-
 rubynews is a command line tool that lets you browse ruby news week by week.
 Type:
 
