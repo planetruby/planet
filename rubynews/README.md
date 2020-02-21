@@ -4,6 +4,7 @@
 * bugs  :: [github.com/planetruby/planet/issues](https://github.com/planetruby/planet/issues)
 * gem   :: [rubygems.org/gems/rubynews](https://rubygems.org/gems/rubynews)
 * rdoc  :: [rubydoc.info/gems/rubynews](http://rubydoc.info/gems/rubynews)
+* forum :: [groups.google.com/group/wwwmake](http://groups.google.com/group/wwwmake)
 
 
 ## Usage
@@ -11,7 +12,7 @@
 rubynews is a command line tool that lets you browse ruby news week by week.
 Type:
 
-    rubynews
+    $ rubynews
 
 to run. Resulting in:
 
@@ -77,7 +78,7 @@ Week 51/2019 - Mon, 16 Dec to Sun, 22 Dec   (9 Items)
     3.1.0 Released
 ```
 
-The rubynews command will fetch all builtin news feeds subscriptions
+The rubynews command will fetch all built-in news feeds subscriptions
 and store all news items in the single-file SQLite `news.db` in your home folder
 under `.news/`.
 Use the space bar to browse week-by-week
@@ -86,13 +87,13 @@ or press any other key to quit.
 
 ### Update All Feed Subscriptions
 
-Note: rubynews has no built-in automatic feed subscription update. Use:
+Note: rubynews has no auto-"magic" built-in feed subscription update. Type:
 
-    rubynews update    # or
-    rubynews up        # or
-    rupbynew u
+    $ rubynews update    # or
+    $ rubynews up        # or
+    $ rupbynew u
 
-to update all feed subscriptions.
+to update all feed subscriptions "by hand". (Or schedule a daily, hourly, etc. cron job.)
 
 
 ## License
