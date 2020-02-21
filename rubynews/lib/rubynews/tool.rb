@@ -76,17 +76,19 @@ class Tool
 
 
       last_day  = nil
-      last_host = nil
+      last_host = nil    ## todo/fix: change to last_source_title or something??
 
       News.week(week, year).each do |item|
         if last_day != item.date.day
           puts
           print "  #{item.date.format( 'Mon, 02 Jan' )}   "
-          print ">> #{URI(item.feed.feed_url).host} <<"
+          print ">> #{item.feed.title || URI(item.feed.feed_url).host} <<"
           print "\n"
-        elsif last_host != URI(item.feed.feed_url).host
+        elsif last_host != (item.feed.title || URI(item.feed.feed_url).host)
           print "                "
-          print ">> #{URI(item.feed.feed_url).host} <<"
+          ## note: print feed title and if missing fallback to feed host (from url) 
+          ##  todo/fix:  check for feed location - if present add with @ !!!!
+          print ">> #{item.feed.title || URI(item.feed.feed_url).host} <<"
           print "\n"
         else
         end
@@ -94,7 +96,7 @@ class Tool
         puts "    #{item.title}"
 
         last_day  = item.date.day
-        last_host = URI(item.feed.feed_url).host
+        last_host = item.feed.title || URI(item.feed.feed_url).host
       end
 
       if count > 0 || empty_week_counter > 10

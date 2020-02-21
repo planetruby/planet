@@ -19,7 +19,7 @@ Hoe.spec 'rubynews' do
 
   self.extra_deps = [
     ['whatson',    '>=1.1.0'],
-    ['pluto-news', '>=1.0.0']
+    ['pluto-news', '>=1.0.1']
   ]
 
   self.licenses = ['Public Domain']
