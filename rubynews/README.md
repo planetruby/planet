@@ -100,3 +100,9 @@ to update all feed subscriptions "by hand". (Or schedule a daily, hourly, etc. c
 
 The `rubynews` scripts are dedicated to the public domain.
 Use it as you please with no restrictions whatsoever.
+
+
+## Questions? Comments?
+
+Send them along to the [wwwmake Forum/Mailing List](http://groups.google.com/group/wwwmake).
+Thanks!
