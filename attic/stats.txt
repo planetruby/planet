@@ -1,0 +1,146 @@
+::::::::::::::::::::::::::::::::::::
+::  36 channels, 1464 items
+  15 items (rss 2.0) - https://blog.phusion.nl/rss/
+    in 309 days  -   a post every 20 days
+    - Ghost 1.25 generator
+    - nginx/1.14.0 (Ubuntu) server
+  4 items (rss 2.0) - https://developers.redhat.com/blog/author/vnmakarov/feed/
+    in 1057 days  -   a post about every ~9 months, every 264 days
+    - https://wordpress.org/?v=5.1.4 generator
+    - Apache server
+  340 items (atom) - https://railsgirlssummerofcode.org/blog.xml
+    in 2441 days  -   a post every 7 days
+    - ? generator
+    - Netlify server
+  10 items (atom) - http://jekyllrb.com/feed.xml
+    in 476 days  -   a post about every ~2 months, every 47 days
+    - Jekyll generator
+    - GitHub.com server
+  10 items (atom) - https://foundation.travis-ci.org/feed.xml
+    in 958 days  -   a post about every ~3 months, every 95 days
+    - ? generator
+    - Cowboy server
+  10 items (atom) - https://hanamirb.org/atom.xml
+    in 691 days  -   a post about every ~2 months, every 69 days
+    - ? generator
+    - GitHub.com server
+  14 items (atom) - http://sinatrarb.com/feed.xml
+    in 4000 days  -   a post about every ~10 months, every 285 days
+    - ? generator
+    - GitHub.com server
+  410 items (atom) - https://blog.bigbinary.com/feed.xml
+    in 4672 days  -   a post every 11 days
+    - ? generator
+    - Netlify server
+  10 items (atom) - http://weblog.rubyonrails.org/feed/atom.xml
+    in 74 days  -   a post every 7 days
+    - Jekyll generator
+    - GitHub.com server
+  10 items (rss 2.0) - https://www.rubyguides.com/feed/
+    in 119 days  -   a post every 11 days
+    - https://wordpress.org/?v=4.9.13 generator
+    - nginx/1.14.2 server
+  20 items (atom) - http://feeds.feedburner.com/ryanbigg?format=xml
+    in 567 days  -   a post every 28 days
+    - ? generator
+    - GSE server
+  190 items (atom) - http://blog.rubygems.org/atom.xml
+    in 5820 days  -   a post about every ~1 months, every 30 days
+    - ? generator
+    - GitHub.com server
+  10 items (atom) - http://www.jruby.org/atom.xml
+    in 467 days  -   a post about every ~2 months, every 46 days
+    - ? generator
+    - GitHub.com server
+  20 items (rss 2.0) - http://feeds.feedburner.com/jetbrains_rubymine?format=xml
+    in 388 days  -   a post every 19 days
+    - https://wordpress.org/?v=4.4.21 generator
+    - GSE server
+  10 items (atom) - https://fastruby.io/blog/rss.xml
+    in 135 days  -   a post every 13 days
+    - Jekyll generator
+    - Cowboy server
+  9 items (atom) - http://planetruby.github.io/calendar/feed.xml
+    in 63 days  -   a post every 7 days
+    - ? generator
+    - GitHub.com server
+  10 items (rss 2.0) - https://zverok.github.io/feed.xml
+    in 726 days  -   a post about every ~2 months, every 72 days
+    - Jekyll v3.8.5 generator
+    - GitHub.com server
+  10 items (rss 2.0) - https://rubytuesday.katafrakt.me/feed.xml
+    in 679 days  -   a post about every ~2 months, every 67 days
+    - Jekyll v4.0.0.pre.alpha1 generator
+    - cloudflare server
+  10 items (atom) - https://rubyinstaller.org/feed.xml
+    in 742 days  -   a post about every ~2 months, every 74 days
+    - Jekyll generator
+    - cloudflare server
+  9 items (atom) - https://eregon.me/blog/feed.xml
+    in 1629 days  -   a post about every ~6 months, every 181 days
+    - Jekyll generator
+    - nginx/1.6.2 server
+  15 items (atom) - http://tenderlovemaking.com/atom.xml
+    in 2049 days  -   a post about every ~5 months, every 136 days
+    - ? generator
+    - Apache server
+  63 items (atom) - https://rubytogether.org/news.xml
+!!!! WARN - 63 dates missing !!!!
+    - ? generator
+    - Cowboy server
+  6 items (atom) - https://dry-rb.org/feed.xml
+    in 636 days  -   a post about every ~4 months, every 106 days
+    - ? generator
+    - GitHub.com server
+  10 items (atom) - http://blog.headius.com/feed.xml
+    in 2548 days  -   a post about every ~8 months, every 254 days
+    - Jekyll generator
+    - GitHub.com server
+  10 items (rss 2.0) - https://solnic.codes/feed/
+    in 1479 days  -   a post about every ~5 months, every 147 days
+    - ? generator
+    - nginx server
+  14 items (atom) - https://gettalong.org/posts.atom
+    in 1076 days  -   a post about every ~3 months, every 76 days
+    - webgen - Webgen::PathHandler::Feed generator
+    - Apache/2.2.15 (CentOS) server
+  6 items (atom) - http://bundler.io/blog/feed.xml
+    in 157 days  -   a post every 26 days
+    - ? generator
+    - GitHub.com server
+  15 items (atom) - http://blog.zenspider.com/atom.xml
+    in 1470 days  -   a post about every ~3 months, every 98 days
+    - ? generator
+    - Apache server
+  10 items (atom) - https://www.rubypigeon.com/feed.xml
+    in 715 days  -   a post about every ~2 months, every 71 days
+    - Jekyll generator
+    - cloudflare server
+  66 items (atom) - https://idiosyncratic-ruby.com/feed.xml
+    in 1126 days  -   a post every 17 days
+    - ? generator
+    - nginx server
+  10 items (rss 2.0) - http://www.ruby-lang.org/en/feeds/news.rss
+    in 85 days  -   a post every 8 days
+    - ? generator
+    - Cowboy server
+  15 items (rss 2.0) - https://www.ruby-toolbox.com/blog.rss
+    in 707 days  -   a post about every ~2 months, every 47 days
+    - ? generator
+    - Cowboy server
+  70 items (rss 2.0) - https://ankane.org/feed.rss
+    in 1759 days  -   a post every 25 days
+    - ? generator
+    - nginx server
+  10 items (rss 2.0) - http://www.schneems.com/feed.xml
+    in 597 days  -   a post about every ~2 months, every 59 days
+    - ? generator
+    - nginx server
+  3 items (rss 2.0) - https://deepdive.sh/feed.xml
+    in 247 days  -   a post about every ~3 months, every 82 days
+    - ? generator
+    - GitHub.com server
+  10 items (rss 2.0) - http://samsaffron.com/posts.rss
+    in 606 days  -   a post about every ~2 months, every 60 days
+    - ? generator
+    - nginx server
