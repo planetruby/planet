@@ -44,42 +44,6 @@ Update Frequency (Median)  (n=35)
   <= 365 days  ( 2%) | * 1
 ```
 
-### Q: What feed formats are in use?
-
-```
-Formats  (n=36)
----------------------------------
-  atom        (63%) | ************************************* 23
-  rss 2.0     (36%) | ********************* 13
-```
-
-### Q: What servers are in use?
-
-```
-Servers  (n=36)
----------------------------------
-  GitHub.com  (33%) | ******************* 12
-  nginx       (22%) | ************* 8
-  Cowboy      (13%) | ******* 5
-  Apache      (11%) | ****** 4
-  cloudflare  ( 8%) | **** 3
-  GSE         ( 5%) | *** 2
-  Netlify     ( 5%) | *** 2
-```
-
-### Q: What (web site) publishing tools are in use?
-
-```
-Generators  (n=36)
----------------------------------
-  ?           (61%) | ************************************ 22
-  Jekyll      (25%) | *************** 9
-  wordpress   ( 8%) | **** 3
-  webgen      ( 2%) | * 1
-  Ghost       ( 2%) | * 1
-```
-
-
 ### Q: What's the (post volume) break down by year, month, week?
 
 ```
@@ -117,8 +81,42 @@ This Month:   22
 This Week:    3
 ```
 
-That's all for now. 
+### Q: What feed formats are in use?
 
+```
+Formats  (n=36)
+---------------------------------
+  atom        (63%) | ************************************* 23
+  rss 2.0     (36%) | ********************* 13
+```
+
+### Q: What servers are in use?
+
+```
+Servers  (n=36)
+---------------------------------
+  GitHub.com  (33%) | ******************* 12
+  nginx       (22%) | ************* 8
+  Cowboy      (13%) | ******* 5
+  Apache      (11%) | ****** 4
+  cloudflare  ( 8%) | **** 3
+  GSE         ( 5%) | *** 2
+  Netlify     ( 5%) | *** 2
+```
+
+### Q: What (web site) publishing tools are in use?
+
+```
+Generators  (n=36)
+---------------------------------
+  ?           (61%) | ************************************ 22
+  Jekyll      (25%) | *************** 9
+  wordpress   ( 8%) | **** 3
+  webgen      ( 2%) | * 1
+  Ghost       ( 2%) | * 1
+```
+
+That's all for now. 
 
 
 
