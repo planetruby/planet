@@ -34,33 +34,33 @@ See the the feed list (that is, [planet.ini](planet.ini)) for all feeds included
 ### Q: What are the top topics / words in headlines?
 
 ```
-Top Words in Headlines 2020
+Top Words in Headlines 2020  (n=47)
 ---------------------------------
-  ruby            (31%) | ****************** 15
-  rails           (27%) | **************** 13
-  conferences     (12%) | ******* 6
-  dry             (10%) | ****** 5
-  rom             ( 8%) | **** 4
-  ml              ( 4%) | ** 2
-  rubymine        ( 4%) | ** 2
+  rails           | ***************** 13
+  ruby            | **************** 12
+  conferences     | ******* 6
+  dry             | ****** 5
+  rom             | ***** 4
+  ml              | ** 2
+  rubymine        | ** 2
 
-Top Words in Headlines 2019
+Top Words in Headlines 2019  (n=228)
 ---------------------------------
-  rails           (38%) | ********************** 66
-  ruby            (22%) | ************* 39
-  rubymine        ( 9%) | ***** 16
-  activerecord    ( 4%) | ** 8
-  bundler         ( 2%) | * 5
-  hanami          ( 2%) | * 5
-  jruby           ( 2%) | * 5
-  activemodel     ( 2%) | * 4
-  jekyll          ( 2%) | * 4
-  passenger       ( 2%) | * 4
-  rgsoc           ( 2%) | * 4
-  conferences     ( 1%) |  3
-  rubyconf        ( 1%) |  3
-  rubygems        ( 1%) |  3
-  rubyinstaller   ( 1%) |  3
+  rails           | ********************** 64
+  ruby            | ************* 38
+  rubymine        | ***** 16
+  activerecord    | ** 8
+  bundler         | * 5
+  hanami          | * 5
+  jruby           | * 5
+  activemodel     | * 4
+  jekyll          | * 4
+  passenger       | * 4
+  rgsoc           | * 4
+  conferences     |  3
+  rubyconf        |  3
+  rubygems        |  3
+  rubyinstaller   |  3
 ```
 
 
