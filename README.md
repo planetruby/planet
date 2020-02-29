@@ -63,7 +63,7 @@ Top Words in Headlines 2019  (n=228)
   rubyinstaller   |  3
 ```
 
-### Q: Where do Rubyists come from / What are the most popular countries for personal blogs?
+### Q: Where do Rubyists come from / What are the top countries for personal blogs?
 
 ```
 Location (Personal Blogs)  (n=18)
