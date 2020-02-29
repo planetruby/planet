@@ -63,10 +63,10 @@ Top Words in Headlines 2019  (n=228)
   rubyinstaller   |  3
 ```
 
-### Q: Where do Rubyists come from / What are the top countries for personal blogs?
+### Q: Where do Rubyists come from / What are the top countries for blogs?
 
 ```
-Location (Personal Blogs)  (n=18)
+Location  (n=18)
 ---------------------------------
   Australia       (16%) | ********* 3
   Austria         ( 5%) | *** 1
