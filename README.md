@@ -31,6 +31,39 @@ that includes personal blogs, ruby project news and more.
 See the the feed list (that is, [planet.ini](planet.ini)) for all feeds included in the survey.
 
 
+### Q: What are the top topics / words in headlines?
+
+```
+Top Words in Headlines 2020
+---------------------------------
+  ruby            (31%) | ****************** 15
+  rails           (27%) | **************** 13
+  conferences     (12%) | ******* 6
+  dry             (10%) | ****** 5
+  rom             ( 8%) | **** 4
+  ml              ( 4%) | ** 2
+  rubymine        ( 4%) | ** 2
+
+Top Words in Headlines 2019
+---------------------------------
+  rails           (38%) | ********************** 66
+  ruby            (22%) | ************* 39
+  rubymine        ( 9%) | ***** 16
+  activerecord    ( 4%) | ** 8
+  bundler         ( 2%) | * 5
+  hanami          ( 2%) | * 5
+  jruby           ( 2%) | * 5
+  activemodel     ( 2%) | * 4
+  jekyll          ( 2%) | * 4
+  passenger       ( 2%) | * 4
+  rgsoc           ( 2%) | * 4
+  conferences     ( 1%) |  3
+  rubyconf        ( 1%) |  3
+  rubygems        ( 1%) |  3
+  rubyinstaller   ( 1%) |  3
+```
+
+
 ### Q: What's the update frequency of posts?
 
 ```
