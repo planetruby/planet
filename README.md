@@ -26,14 +26,15 @@ That's it. Wait for the next update. Welcome on Planet Ruby.
 #### Q: How can I browse / read all the Planet Ruby news?
 
 Use your feed reader of choice :-).
-For a command line version try `rubynews`. See [`/rubynews`](/rubynews) on how to get started. 
+For a command line version try `rubynews` that lets you browse week by week. 
+See [`/rubynews`](/rubynews) on how to get started. 
 
 Add your feed reader tool here!
 
 
 #### Q: Can I get the feed list in the OPML (Outline Processor Markup Language) XML format?
 
-Yes, you can. Use [`opml.rb`](/script/opml.rb) script to generate an up-to-date version in the OPML format.
+Yes, you can. Use the [`opml.rb`](/script/opml.rb) script to generate an up-to-date version in the OPML format.
 Example: 
 
     $ ruby script/opml.rb > planet.opml
