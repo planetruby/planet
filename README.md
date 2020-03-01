@@ -33,7 +33,7 @@ Add your feed reader tool here!
 
 #### Q: Can I get the feed list in the OPML (Outline Processor Markup Language) XML format?
 
-Yes, you can. Use the [`opml`](/script/opml.rb) script to generate an up-to-date version in the OPML format.
+Yes, you can. Use [`opml.rb`](/script/opml.rb) script to generate an up-to-date version in the OPML format.
 Example: 
 
     $ ruby script/opml.rb > planet.opml
