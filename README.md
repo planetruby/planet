@@ -26,8 +26,9 @@ That's it. Wait for the next update. Welcome on Planet Ruby.
 #### Q: How can I browse / read all the Planet Ruby news?
 
 Use your feed reader of choice :-).
-For a command line version try `rubynews` that lets you browse week by week. 
-See [`/rubynews`](/rubynews) on how to get started. 
+
+Options:
+- For a command line version try `rubynews` that lets you browse week by week. See [`/rubynews`](/rubynews) on how to get started. 
 
 Add your feed reader tool here!
 
