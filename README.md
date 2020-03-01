@@ -21,6 +21,23 @@ Step 2: There's no Step 2 ;-).
 
 That's it. Wait for the next update. Welcome on Planet Ruby.
 
+### Frequently Asked Questions (FAQ) and Answers
+
+#### Q: How can I browse / read all the Planet Ruby news?
+
+Use your feed reader of choice :-).
+For a command line version try `rubynews`. See [`/rubynews`](/rubynews) on how to get started. 
+
+Add your feed reader tool here!
+
+
+#### Q: Can I get the feed list in the OPML (Outline Processor Markup Language) XML format?
+
+Yes, you can. Use the [`opml`](/script/opml.rb) script to generate an up-to-date version in the OPML format.
+Example: 
+
+    $ ruby script/opml.rb > planet.opml
+
 
 
 ## The State of Ruby Blogs and News - 36 Channels, 1464 Items
@@ -170,9 +187,9 @@ That's all for now.
 
 
 
-## Frequently Asked Questions (FAQ) and Answers
+### Frequently Asked Questions (FAQ) and Answers   (Continued)
 
-### Q: How do you determine the platform/publishing tool?
+#### Q: How do you determine the platform/publishing tool?
 
 For now the script looks for the generator tag in the web feed 
 (thus, it's missing in about half of the feeds or to be exact in 22, that is, 61%). See as an example in atom flavor (<https://gettalong.org/posts.atom>):
