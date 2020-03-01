@@ -28,7 +28,8 @@ That's it. Wait for the next update. Welcome on Planet Ruby.
 Use your feed reader of choice :-).
 
 Options:
-- For a command line version try `rubynews` that lets you browse week by week. See [`/rubynews`](/rubynews) on how to get started. 
+
+For a command line version try `rubynews` that lets you browse week by week. See [`/rubynews`](/rubynews) on how to get started. 
 
 Add your feed reader tool here!
 
