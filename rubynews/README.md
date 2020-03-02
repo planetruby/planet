@@ -91,7 +91,7 @@ Note: rubynews has no auto-"magic" built-in feed subscription update. Type:
 
     $ rubynews update    # or
     $ rubynews up        # or
-    $ rupbynew u
+    $ rubynews u
 
 to update all feed subscriptions "by hand". (Or schedule a daily, hourly, etc. cron job.)
 
