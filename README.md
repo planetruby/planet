@@ -81,6 +81,38 @@ Top Words in Headlines 2019  (n=228)
   rubyinstaller   |  3
 ```
 
+### Q: What are the top ruby versions in headlines?
+
+```
+Top Ruby Versions in Headlines 2020  (n=93)
+----------------------------------------------
+  ruby 2.7        | ************************************************************ 3
+
+Top Ruby Versions in Headlines 2019  (n=412)
+----------------------------------------------
+  ruby 2.7        | ************************************* 12
+  ruby 2.6        | ********* 3
+  ruby 3.0        | ****** 2
+  ruby 2.4        | *** 1
+  ruby 2.5        | *** 1
+```
+
+### Q: What are the top rails versions in headlines?
+
+```
+Top Rails Versions in Headlines 2020  (n=93)
+-----------------------------------------------
+  rails 6.0       | ****************************** 1
+  rails 6.1       | ****************************** 1
+
+Top Rails Versions in Headlines 2019  (n=412)
+-----------------------------------------------
+  rails 6.0       | ******************************************************* 58
+  rails 6.1       | ** 3
+  rails 5.2       |  1
+```
+
+
 ### Q: Where do Rubyists come from / What are the top countries for blogs?
 
 ```
