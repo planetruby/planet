@@ -190,7 +190,7 @@ That's all for now.
 
 ### Frequently Asked Questions (FAQ) and Answers   (Continued)
 
-#### Q: How do you determine the platform/publishing tool?
+#### Q: How do you determine the publishing tool?
 
 For now the script looks for the generator tag in the web feed 
 (thus, it's missing in about half of the feeds or to be exact in 22, that is, 61%). See as an example in atom flavor (<https://gettalong.org/posts.atom>):
