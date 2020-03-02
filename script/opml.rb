@@ -29,7 +29,6 @@ hash.each do |k,v|
     line =  "    "
     line << "<outline"
     line << " text=\"#{escape(k)}\""
-    line << " type=\"rss\""
     line << " xmlUrl=\"#{escape(v['feed'])}\""
     line << "/>"
 
@@ -39,7 +38,7 @@ hash.each do |k,v|
 end
 
 xml =<<XML
-<opml version="2.0">
+<opml version="1.1">
   <head>
 #{head}
     <dateCreated>#{Time.now.utc.rfc822}</dateCreated>

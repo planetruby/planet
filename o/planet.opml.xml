@@ -1,53 +1,55 @@
-<opml version="2.0">
+<opml version="1.1">
   <head>
     <title>Planet Ruby</title>
-    <dateCreated>Sun, 01 Mar 2020 17:09:02 -0000</dateCreated>
+    <dateCreated>Mon, 02 Mar 2020 08:21:56 -0000</dateCreated>
   </head>
   <body>
-    <outline text="Ruby Lang News" type="rss" xmlUrl="http://www.ruby-lang.org/en/feeds/news.rss"/>
-    <outline text="JRuby Lang News" type="rss" xmlUrl="http://www.jruby.org/atom.xml"/>
-    <outline text="RubyGems News" type="rss" xmlUrl="http://blog.rubygems.org/atom.xml"/>
-    <outline text="Bundler News" type="rss" xmlUrl="http://bundler.io/blog/feed.xml"/>
-    <outline text="Ruby Toolbox News" type="rss" xmlUrl="https://www.ruby-toolbox.com/blog.rss"/>
-    <outline text="Idiosyncratic Ruby" type="rss" xmlUrl="https://idiosyncratic-ruby.com/feed.xml"/>
-    <outline text="Ruby on Rails News" type="rss" xmlUrl="http://weblog.rubyonrails.org/feed/atom.xml"/>
-    <outline text="Sinatra News" type="rss" xmlUrl="http://sinatrarb.com/feed.xml"/>
-    <outline text="DRY News" type="rss" xmlUrl="https://dry-rb.org/feed.xml"/>
-    <outline text="Hanami News" type="rss" xmlUrl="https://hanamirb.org/atom.xml"/>
-    <outline text="Jekyll News" type="rss" xmlUrl="http://jekyllrb.com/feed.xml"/>
-    <outline text="RubyMine News" type="rss" xmlUrl="http://feeds.feedburner.com/jetbrains_rubymine?format=xml"/>
-    <outline text="Phusion News" type="rss" xmlUrl="https://blog.phusion.nl/rss/"/>
-    <outline text="Ruby Installer for Windows News" type="rss" xmlUrl="https://rubyinstaller.org/feed.xml"/>
-    <outline text="Ruby Conferences &amp; Camps News" type="rss" xmlUrl="http://planetruby.github.io/calendar/feed.xml"/>
-    <outline text="Ruby Together News" type="rss" xmlUrl="https://rubytogether.org/news.xml"/>
-    <outline text="Travis Foundation News" type="rss" xmlUrl="https://foundation.travis-ci.org/feed.xml"/>
-    <outline text="Rails Girls Summer of Code News" type="rss" xmlUrl="https://railsgirlssummerofcode.org/blog.xml"/>
-    <outline text="Amazon Web Service (AWS) Compute News" type="rss" xmlUrl="https://aws.amazon.com/blogs/compute/tag/ruby/feed/"/>
-    <outline text="Amazon Web Service (AWS) Developer News" type="rss" xmlUrl="https://aws.amazon.com/blogs/developer/tag/ruby/feed/"/>
-    <outline text="Amazon Web Service (AWS) Open Source News" type="rss" xmlUrl="https://aws.amazon.com/blogs/opensource/tag/ruby/feed/"/>
-    <outline text="Fast Ruby Blog - Ombu Labs" type="rss" xmlUrl="https://fastruby.io/blog/rss.xml"/>
-    <outline text="Big Binary Blog" type="rss" xmlUrl="https://blog.bigbinary.com/feed.xml"/>
-    <outline text="Ruby on Rails Podcast" type="rss" xmlUrl="http://feeds.5by5.tv/rubyonrails"/>
-    <outline text="Rails with Jason Podcast" type="rss" xmlUrl="https://rss.simplecast.com/podcasts/10758/rss"/>
-    <outline text="Ruby Rogues (RR) Podcast" type="rss" xmlUrl="https://feeds.feedwrench.com/RubyRogues.rss"/>
-    <outline text="Remote Ruby Podcast" type="rss" xmlUrl="https://feeds.transistor.fm/remote-ruby"/>
-    <outline text="Ryan Davis" type="rss" xmlUrl="http://blog.zenspider.com/atom.xml"/>
-    <outline text="Aaron Patterson" type="rss" xmlUrl="http://tenderlovemaking.com/atom.xml"/>
-    <outline text="Andrew Kane" type="rss" xmlUrl="https://ankane.org/feed.rss"/>
-    <outline text="Charles Nutter" type="rss" xmlUrl="http://blog.headius.com/feed.xml"/>
-    <outline text="Richard Schneeman" type="rss" xmlUrl="http://www.schneems.com/feed.xml"/>
-    <outline text="Vladimir Makarov" type="rss" xmlUrl="https://developers.redhat.com/blog/author/vnmakarov/feed/"/>
-    <outline text="Andy Croll" type="rss" xmlUrl="https://andycroll.com/rss.xml"/>
-    <outline text="Jamie Schembri" type="rss" xmlUrl="https://blog.schembri.me/index.xml"/>
-    <outline text="Benoit Daloze" type="rss" xmlUrl="https://eregon.me/blog/feed.xml"/>
-    <outline text="Thomas Leitner" type="rss" xmlUrl="https://gettalong.org/posts.atom"/>
-    <outline text="Hrvoje Šimić" type="rss" xmlUrl="https://deepdive.sh/feed.xml"/>
-    <outline text="Paweł Świątkowski" type="rss" xmlUrl="https://rubytuesday.katafrakt.me/feed.xml"/>
-    <outline text="Piotr Solnica" type="rss" xmlUrl="https://solnic.codes/feed/"/>
-    <outline text="Victor Shepelev" type="rss" xmlUrl="https://zverok.github.io/feed.xml"/>
-    <outline text="Jesus Castello" type="rss" xmlUrl="https://www.rubyguides.com/feed/"/>
-    <outline text="Sam Saffron" type="rss" xmlUrl="http://samsaffron.com/posts.rss"/>
-    <outline text="Tom Dalling" type="rss" xmlUrl="https://www.rubypigeon.com/feed.xml"/>
-    <outline text="Ryan Bigg" type="rss" xmlUrl="http://feeds.feedburner.com/ryanbigg?format=xml"/>
+    <outline text="Ruby Lang News" xmlUrl="http://www.ruby-lang.org/en/feeds/news.rss"/>
+    <outline text="JRuby Lang News" xmlUrl="http://www.jruby.org/atom.xml"/>
+    <outline text="RubyGems News" xmlUrl="http://blog.rubygems.org/atom.xml"/>
+    <outline text="Bundler News" xmlUrl="http://bundler.io/blog/feed.xml"/>
+    <outline text="Ruby Toolbox News › Christoph Olszowka" xmlUrl="https://www.ruby-toolbox.com/blog.rss"/>
+    <outline text="Idiosyncratic Ruby › Jan Lelis" xmlUrl="https://idiosyncratic-ruby.com/feed.xml"/>
+    <outline text="Ruby on Rails News" xmlUrl="http://weblog.rubyonrails.org/feed/atom.xml"/>
+    <outline text="Sinatra News" xmlUrl="http://sinatrarb.com/feed.xml"/>
+    <outline text="DRY News" xmlUrl="https://dry-rb.org/feed.xml"/>
+    <outline text="Hanami News" xmlUrl="https://hanamirb.org/atom.xml"/>
+    <outline text="Jekyll News" xmlUrl="http://jekyllrb.com/feed.xml"/>
+    <outline text="RubyMine News" xmlUrl="http://feeds.feedburner.com/jetbrains_rubymine?format=xml"/>
+    <outline text="Phusion News" xmlUrl="https://blog.phusion.nl/rss/"/>
+    <outline text="Ruby Installer for Windows News" xmlUrl="https://rubyinstaller.org/feed.xml"/>
+    <outline text="Ruby Conferences &amp; Camps News" xmlUrl="http://planetruby.github.io/calendar/feed.xml"/>
+    <outline text="Ruby Together News" xmlUrl="https://rubytogether.org/news.xml"/>
+    <outline text="Travis Foundation News" xmlUrl="https://foundation.travis-ci.org/feed.xml"/>
+    <outline text="Rails Girls Summer of Code News" xmlUrl="https://railsgirlssummerofcode.org/blog.xml"/>
+    <outline text="Amazon Web Services (AWS) Compute News" xmlUrl="https://aws.amazon.com/blogs/compute/tag/ruby/feed/"/>
+    <outline text="Amazon Web Services (AWS) Developer News" xmlUrl="https://aws.amazon.com/blogs/developer/tag/ruby/feed/"/>
+    <outline text="Amazon Web Services (AWS) Open Source News" xmlUrl="https://aws.amazon.com/blogs/opensource/tag/ruby/feed/"/>
+    <outline text="Fast Ruby Blog › Ombu Labs" xmlUrl="https://fastruby.io/blog/rss.xml"/>
+    <outline text="Big Binary Blog" xmlUrl="https://blog.bigbinary.com/feed.xml"/>
+    <outline text="Ruby on Rails Podcast › Brittany Martin" xmlUrl="http://feeds.5by5.tv/rubyonrails"/>
+    <outline text="Rails with Jason Podcast › Jason Swett" xmlUrl="https://rss.simplecast.com/podcasts/10758/rss"/>
+    <outline text="Ruby Rogues (RR) Podcast" xmlUrl="https://feeds.feedwrench.com/RubyRogues.rss"/>
+    <outline text="Remote Ruby Podcast › Chris Oliver, Jason Charnes and Andrew Mason" xmlUrl="https://feeds.transistor.fm/remote-ruby"/>
+    <outline text="Ryan Davis" xmlUrl="http://blog.zenspider.com/atom.xml"/>
+    <outline text="Aaron Patterson" xmlUrl="http://tenderlovemaking.com/atom.xml"/>
+    <outline text="Andrew Kane" xmlUrl="https://ankane.org/feed.rss"/>
+    <outline text="Charles Nutter" xmlUrl="http://blog.headius.com/feed.xml"/>
+    <outline text="Richard Schneeman" xmlUrl="http://www.schneems.com/feed.xml"/>
+    <outline text="Richard Schneeman, Heroku" xmlUrl="https://blog.heroku.com/authors/richard-schneeman/feed"/>
+    <outline text="Vladimir Makarov, Red Hat" xmlUrl="https://developers.redhat.com/blog/author/vnmakarov/feed/"/>
+    <outline text="Andy Croll" xmlUrl="https://andycroll.com/rss.xml"/>
+    <outline text="Piotr Murach" xmlUrl="https://piotrmurach.com/feed.xml"/>
+    <outline text="Jamie Schembri" xmlUrl="https://blog.schembri.me/index.xml"/>
+    <outline text="Benoit Daloze" xmlUrl="https://eregon.me/blog/feed.xml"/>
+    <outline text="Thomas Leitner" xmlUrl="https://gettalong.org/posts.atom"/>
+    <outline text="Deep Dive › Hrvoje Šimić" xmlUrl="https://deepdive.sh/feed.xml"/>
+    <outline text="Ruby Tuesday › Paweł Świątkowski" xmlUrl="https://rubytuesday.katafrakt.me/feed.xml"/>
+    <outline text="Piotr Solnica" xmlUrl="https://solnic.codes/feed/"/>
+    <outline text="Victor Shepelev" xmlUrl="https://zverok.github.io/feed.xml"/>
+    <outline text="Ruby Guides › Jesus Castello" xmlUrl="https://www.rubyguides.com/feed/"/>
+    <outline text="Sam Saffron" xmlUrl="http://samsaffron.com/posts.rss"/>
+    <outline text="Ruby Pigeon › Tom Dalling" xmlUrl="https://www.rubypigeon.com/feed.xml"/>
+    <outline text="Ryan Bigg" xmlUrl="http://feeds.feedburner.com/ryanbigg?format=xml"/>
   </body>
 </opml>
