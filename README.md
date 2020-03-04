@@ -41,7 +41,7 @@ Example:
 
 
 
-## The State of Ruby Blogs and News - 36 Channels, 1464 Items
+## The State of Ruby Blogs and News - 51 Channels, 2548 Items
 
 A little survery about the state of the ruby feed-iverse 
 that includes personal blogs, ruby project news and more.
@@ -134,14 +134,15 @@ Location  (n=18)
 ### Q: What's the update frequency of posts?
 
 ```
-Update Frequency (Median)  (n=35)
+Update Frequency (Median)  (n=49)
 ---------------------------------
-  <=   7 days  (17%) | ********** 6
-  <=  14 days  (17%) | ********** 6
-  <=  30 days  (11%) | ****** 4
-  <=  90 days  (40%) | ************************ 14
-  <= 180 days  (11%) | ****** 4
+  <=   7 days  (18%) | ********** 9
+  <=  14 days  (18%) | ********** 9
+  <=  30 days  (14%) | ******** 7
+  <=  90 days  (32%) | ******************* 16
+  <= 180 days  (12%) | ******* 6
   <= 365 days  ( 2%) | * 1
+  above        ( 2%) | * 1
 ```
 
 ### Q: What's the (post volume) break down by year, month, week?
@@ -149,71 +150,79 @@ Update Frequency (Median)  (n=35)
 ```
 By Year:
   year 2010: 32
-  year 2011: 28
-  year 2012: 20
-  year 2013: 113
-  year 2014: 70
-  year 2015: 149
-  year 2016: 251
-  year 2017: 160
-  year 2018: 240
-  year 2019: 228
-  year 2020: 47
+  year 2011: 66
+  year 2012: 74
+  year 2013: 169
+  year 2014: 161
+  year 2015: 237
+  year 2016: 325
+  year 2017: 262
+  year 2018: 390
+  year 2019: 454
+  year 2020: 112
 
 By Month in 2020:
-  month 1: 25
-  month 2: 22
+  month 1: 45
+  month 2: 47
+  month 3: 20
 
 By Week in 2020:
-  week  1:    5   - Mon Dec 30, 2019 to Sun Jan 05, 2020
-  week  2:    5   - Mon Jan 06, 2020 to Sun Jan 12, 2020
-  week  3:    5   - Mon Jan 13, 2020 to Sun Jan 19, 2020
-  week  4:    6   - Mon Jan 20, 2020 to Sun Jan 26, 2020
-  week  5:    6   - Mon Jan 27, 2020 to Sun Feb 02, 2020
-  week  6:    7   - Mon Feb 03, 2020 to Sun Feb 09, 2020
-  week  7:    1   - Mon Feb 10, 2020 to Sun Feb 16, 2020
-  week  8:    9   - Mon Feb 17, 2020 to Sun Feb 23, 2020
-  week  9:    3   - Mon Feb 24, 2020 to Sun Mar 01, 2020
+  week  1:    9   - Mon Dec 30, 2019 to Sun Jan 05, 2020
+  week  2:    8   - Mon Jan 06, 2020 to Sun Jan 12, 2020
+  week  3:    9   - Mon Jan 13, 2020 to Sun Jan 19, 2020
+  week  4:   12   - Mon Jan 20, 2020 to Sun Jan 26, 2020
+  week  5:   11   - Mon Jan 27, 2020 to Sun Feb 02, 2020
+  week  6:   13   - Mon Feb 03, 2020 to Sun Feb 09, 2020
+  week  7:    7   - Mon Feb 10, 2020 to Sun Feb 16, 2020
+  week  8:   13   - Mon Feb 17, 2020 to Sun Feb 23, 2020
+  week  9:   22   - Mon Feb 24, 2020 to Sun Mar 01, 2020
+  week 10:    9   - Mon Mar 02, 2020 to Sun Mar 08, 2020
 
-This Year:    47
-This Quartal: 47
-This Month:   22
-This Week:    3
+This Year:    112
+This Quartal: 112
+This Month:   20
+This Week:    9
 ```
 
 ### Q: What feed formats are in use?
 
 ```
-Formats  (n=36)
+Formats  (n=51)
 ---------------------------------
-  atom        (63%) | ************************************* 23
-  rss 2.0     (36%) | ********************* 13
+  atom        (52%) | ******************************* 27
+  rss 2.0     (47%) | **************************** 24
 ```
 
 ### Q: What servers are in use?
 
 ```
-Servers  (n=36)
+Servers  (n=51)
 ---------------------------------
-  GitHub.com  (33%) | ******************* 12
-  Nginx       (22%) | ************* 8
-  Cowboy      (13%) | ******* 5
-  Apache      (11%) | ****** 4
-  cloudflare  ( 8%) | **** 3
-  GSE         ( 5%) | *** 2
-  Netlify     ( 5%) | *** 2
+  GitHub.com  (23%) | ************* 12
+  Nginx       (17%) | ********** 9
+  Cloudflare  (15%) | ********* 8
+  Cowboy      (11%) | ****** 6
+  Netlify     ( 9%) | ***** 5
+  Apache      ( 7%) | **** 4
+  Server      ( 5%) | *** 3
+  GSE         ( 3%) | * 2
+  AmazonS3    ( 1%) |  1
+  Simplecast  ( 1%) |  1
 ```
 
 ### Q: What (web site) publishing tools are in use?
 
 ```
-Generators  (n=36)
+Generators  (n=51)
 ---------------------------------
-  ?           (61%) | ************************************ 22
-  Jekyll      (25%) | *************** 9
-  WordPress   ( 8%) | **** 3
-  Webgen      ( 2%) | * 1
-  Ghost       ( 2%) | * 1
+  ?           (58%) | ********************************** 30
+  Jekyll      (23%) | ************* 12
+  WordPress   ( 5%) | *** 3
+  Ghost       ( 3%) | * 2
+  Hugo        ( 1%) |  1
+  Transistor  ( 1%) |  1
+  Webgen      ( 1%) |  1
+  Simplecast  ( 1%) |  1
 ```
 
 That's all for now. 
