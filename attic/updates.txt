@@ -1,0 +1,153 @@
+Channels (updated+items_last_updated)
+   1d   2020-03-03 13:00:00 UTC -   34 - Rails with Jason Podcast › Jason Swett @ https://rss.simplecast.com/podcasts/10758/rss
+   1d    >2020-03-03 19:17:33 UTC< / >2020-03-03 13:00:00 UTC<   -- rss 2.0 >https://simplecast.com<
+
+   1d   2020-03-03 11:03:00 UTC -  562 - Ruby Rogues (RR) Podcast @ https://feeds.feedwrench.com/RubyRogues.rss
+   1d    >2020-03-03 12:17:30 UTC< / ><   -- rss 2.0 ><
+
+   1d   2020-03-03 00:00:00 UTC -  411 - Big Binary Blog @ https://blog.bigbinary.com/feed.xml
+   1d    >2020-03-03 16:39:58 UTC< / ><   -- atom ><
+
+   2d   2020-03-02 22:13:08 UTC -   11 - Piotr Murach @ https://piotrmurach.com/feed.xml
+   3d    >2020-03-01 20:44:00 UTC< / ><   -- atom ><
+
+   2d   2020-03-02 11:07:28 UTC -   10 - Piotr Solnica @ https://solnic.codes/feed/
+   2d    >2020-03-02 12:19:18 UTC< / ><   -- rss 2.0 ><
+
+   2d   2020-03-02 04:29:32 UTC -   15 - Prathamesh Sonpatki @ https://prathamesh.tech/rss/
+   1d    >2020-03-03 09:16:58 UTC< / ><   -- rss 2.0 >Ghost 2.23<
+
+   2d   2020-03-02 00:00:00 UTC -   10 - JRuby Lang News @ http://www.jruby.org/atom.xml
+   2d    >2020-03-02 20:51:42 UTC< / ><   -- atom ><
+
+   2d   2020-03-02 00:00:00 UTC -   10 - Ruby Conferences & Camps News @ http://planetruby.github.io/calendar/feed.xml
+   2d    >2020-03-02 17:15:45 UTC< / ><   -- atom ><
+
+   3d   2020-03-01 00:00:00 UTC -   10 - Ruby on Rails News @ http://weblog.rubyonrails.org/feed/atom.xml
+   2d    >2020-03-02 03:30:32 UTC< / ><   -- atom >Jekyll<
+
+   3d   2020-03-01 00:00:00 UTC -    5 - Andy Croll @ https://andycroll.com/rss.xml
+   1d    >2020-03-03 18:08:37 UTC< / ><   -- atom >Jekyll<
+
+   5d   2020-02-28 00:00:00 UTC -  341 - Rails Girls Summer of Code News @ https://railsgirlssummerofcode.org/blog.xml
+   2d    >2020-03-02 08:15:26 UTC< / ><   -- atom ><
+
+   5d   2020-02-28 00:00:00 UTC -    9 - Jamie Schembri @ https://blog.schembri.me/index.xml
+ 560d    >2018-08-22 00:00:00 UTC< / ><   -- rss 2.0 >Hugo -- gohugo.io<
+
+   6d   2020-02-27 15:00:50 UTC -   20 - RubyMine News @ http://feeds.feedburner.com/jetbrains_rubymine?format=xml
+   5d    >2020-02-28 13:44:22 UTC< / ><   -- rss 2.0 >https://wordpress.org/?v=4.4.21<
+
+   6d   2020-02-27 12:00:00 UTC -  308 - Ruby on Rails Podcast › Brittany Martin @ http://feeds.5by5.tv/rubyonrails
+   6d    >< / >2020-02-27 12:00:00 UTC<   -- rss 2.0 ><
+
+   7d   2020-02-26 13:23:35 UTC -   10 - Hanami News @ https://hanamirb.org/atom.xml
+   7d    >2020-02-26 13:23:35 UTC< / ><   -- atom ><
+
+   9d   2020-02-24 23:00:00 UTC -    3 - Deep Dive › Hrvoje Šimić @ https://deepdive.sh/feed.xml
+   ?     >< / ><   -- rss 2.0 ><
+
+   9d   2020-02-24 18:00:00 UTC -   67 - Remote Ruby Podcast › Chris Oliver, Jason Charnes and Andrew Mason @ https://feeds.transistor.fm/remote-ruby
+   5d    >2020-02-28 22:18:52 UTC< / >2020-02-24 18:00:00 UTC<   -- rss 2.0 >Transistor (https://transistor.fm)<
+
+  13d   2020-02-20 00:00:00 UTC -   20 - Ryan Bigg @ http://feeds.feedburner.com/ryanbigg?format=xml
+  12d    >2020-02-21 04:47:25 UTC< / ><   -- atom ><
+
+  14d   2020-02-19 21:44:49 UTC -    3 - Amazon Web Services (AWS) Compute News @ https://aws.amazon.com/blogs/compute/tag/ruby/feed/
+  14d    >2020-02-19 21:44:49 UTC< / ><   -- rss 2.0 ><
+
+  14d   2020-02-19 00:00:00 UTC -  190 - RubyGems News @ http://blog.rubygems.org/atom.xml
+  15d    >2020-02-18 23:49:14 UTC< / ><   -- atom ><
+
+  16d   2020-02-17 18:06:18 UTC -   10 - Ruby Guides › Jesus Castello @ https://www.rubyguides.com/feed/
+   9d    >2020-02-24 17:18:11 UTC< / ><   -- rss 2.0 >https://wordpress.org/?v=4.9.13<
+
+  21d   2020-02-12 09:16:00 UTC -   10 - Fast Ruby Blog › Ombu Labs @ https://fastruby.io/blog/rss.xml
+  21d    >2020-02-12 16:08:47 UTC< / ><   -- atom >Jekyll<
+
+  22d   2020-02-11 23:00:00 UTC -    6 - Ruby Magic Blog › App Signal @ https://blog.appsignal.com/ruby-magic-feed.xml
+  22d    >2020-02-11 23:00:00 UTC< / ><   -- atom ><
+
+  29d   2020-02-04 08:00:00 UTC -   10 - Learn Enough to Be Dangerous (incl. Ruby on Rails Tutorial) › Michael Hartl @ https://news.learnenough.com/feed.xml
+  28d    >2020-02-05 18:18:11 UTC< / ><   -- atom >Jekyll<
+
+  36d   2020-01-28 01:00:00 UTC -   10 - Ruby Tuesday › Paweł Świątkowski @ https://rubytuesday.katafrakt.me/feed.xml
+  36d    >2020-01-28 20:23:33 UTC< / >2020-01-28 20:23:33 UTC<   -- rss 2.0 >Jekyll v4.0.0.pre.alpha1<
+
+  41d   2020-01-23 23:09:42 UTC -   70 - Andrew Kane @ https://ankane.org/feed.rss
+   ?     >< / ><   -- rss 2.0 ><
+
+  44d   2020-01-20 08:00:32 UTC -    4 - Vladimir Makarov, Red Hat @ https://developers.redhat.com/blog/author/vnmakarov/feed/
+   1d    >2020-03-03 12:07:27 UTC< / ><   -- rss 2.0 >https://wordpress.org/?v=5.1.4<
+
+  51d   2020-01-13 14:00:39 UTC -   15 - Aaron Patterson @ http://tenderlovemaking.com/atom.xml
+  51d    >2020-01-13 14:00:39 UTC< / ><   -- atom ><
+
+  52d   2020-01-12 23:00:00 UTC -    9 - Benoit Daloze @ https://eregon.me/blog/feed.xml
+  48d    >2020-01-16 07:48:37 UTC< / ><   -- atom >Jekyll<
+
+  55d   2020-01-09 00:00:00 UTC -   15 - Ruby Toolbox News › Christoph Olszowka @ https://www.ruby-toolbox.com/blog.rss
+   ?     >< / ><   -- rss 2.0 ><
+
+  59d   2020-01-05 00:00:00 UTC -   10 - Ruby Installer for Windows News @ https://rubyinstaller.org/feed.xml
+  38d    >2020-01-26 17:56:14 UTC< / ><   -- atom >Jekyll<
+
+  63d   2020-01-01 00:00:00 UTC -   14 - Sinatra News @ http://sinatrarb.com/feed.xml
+   8d    >2020-02-25 15:29:46 UTC< / ><   -- atom ><
+
+  70d   2019-12-25 13:29:49 UTC -   20 - Richard Schneeman, Heroku @ https://blog.heroku.com/authors/richard-schneeman/feed
+   ?     >< / ><   -- rss 2.0 ><
+
+  70d   2019-12-25 00:00:00 UTC -   10 - Ruby Lang News @ http://www.ruby-lang.org/en/feeds/news.rss
+   ?     >< / ><   -- rss 2.0 ><
+
+  73d   2019-12-22 07:00:00 UTC -   10 - Speedshop - Ruby on Rails Performance › Nate Berkopec @ https://www.speedshop.co/feed.xml
+   8d    >2020-02-25 08:53:41 UTC< / >2020-02-25 08:53:41 UTC<   -- rss 2.0 >Jekyll v3.8.6<
+
+  77d   2019-12-18 00:00:00 UTC -   10 - Richard Schneeman @ http://www.schneems.com/feed.xml
+   ?     >< / ><   -- rss 2.0 ><
+
+ 138d   2019-10-18 00:00:00 UTC -   10 - Victor Shepelev @ https://zverok.github.io/feed.xml
+  35d    >2020-01-29 16:39:49 UTC< / >2020-01-29 16:39:49 UTC<   -- rss 2.0 >Jekyll v3.8.5<
+
+ 141d   2019-10-15 05:18:18 UTC -   10 - Sam Saffron @ http://samsaffron.com/posts.rss
+   ?     >< / ><   -- rss 2.0 ><
+
+ 153d   2019-10-03 00:00:00 UTC -    6 - DRY News @ https://dry-rb.org/feed.xml
+ 153d    >2019-10-03 00:00:00 UTC< / ><   -- atom ><
+
+ 168d   2019-09-18 16:09:00 UTC -   10 - Charles Nutter @ http://blog.headius.com/feed.xml
+ 167d    >2019-09-19 16:23:58 UTC< / ><   -- atom >Jekyll<
+
+ 168d   2019-09-18 03:09:58 UTC -   15 - Phusion News @ https://blog.phusion.nl/rss/
+   2d    >2020-03-02 04:58:22 UTC< / ><   -- rss 2.0 >Ghost 1.25<
+
+ 197d   2019-08-20 15:00:00 UTC -   10 - Jekyll News @ http://jekyllrb.com/feed.xml
+   2d    >2020-03-02 15:23:12 UTC< / ><   -- atom >Jekyll<
+
+ 202d   2019-08-15 21:16:33 UTC -   14 - Thomas Leitner @ https://gettalong.org/posts.atom
+ 200d    >2019-08-17 08:20:27 UTC< / ><   -- atom >webgen - Webgen::PathHandler::Feed<
+
+ 212d   2019-08-05 19:19:52 UTC -   20 - Amazon Web Services (AWS) Developer News @ https://aws.amazon.com/blogs/developer/tag/ruby/feed/
+  41d    >2020-01-23 18:26:01 UTC< / ><   -- rss 2.0 ><
+
+ 295d   2019-05-14 00:00:00 UTC -    6 - Bundler News @ http://bundler.io/blog/feed.xml
+ 295d    >2019-05-14 00:00:00 UTC< / ><   -- atom ><
+
+ 316d   2019-04-23 10:01:48 UTC -   15 - Ryan Davis @ http://blog.zenspider.com/atom.xml
+ 316d    >2019-04-23 10:01:48 UTC< / ><   -- atom ><
+
+ 349d   2019-03-21 00:00:00 UTC -   10 - Travis Foundation News @ https://foundation.travis-ci.org/feed.xml
+   1d    >2020-03-03 03:42:07 UTC< / ><   -- atom ><
+
+ 394d   2019-02-04 00:00:00 UTC -   10 - Ruby Pigeon › Tom Dalling @ https://www.rubypigeon.com/feed.xml
+ 394d    >2019-02-04 07:28:43 UTC< / ><   -- atom >Jekyll<
+
+ 629d   2018-06-14 04:18:59 UTC -    1 - Amazon Web Services (AWS) Open Source News @ https://aws.amazon.com/blogs/opensource/tag/ruby/feed/
+  61d    >2020-01-03 04:50:33 UTC< / ><   -- rss 2.0 ><
+
+ 643d   2018-05-31 00:00:00 UTC -   66 - Idiosyncratic Ruby › Jan Lelis @ https://idiosyncratic-ruby.com/feed.xml
+ 643d    >2018-05-31 00:00:00 UTC< / ><   -- atom ><
+
+   ?     -   63 - Ruby Together News @ https://rubytogether.org/news.xml
+ 139d    >2019-10-17 00:00:00 UTC< / ><   -- atom ><
