@@ -1,0 +1,181 @@
+<opml version="1.1">
+  <head>
+    <title>Rubyland Sources</title>
+    <dateCreated>Wed, 16 Nov 2016 00:00:00 -0000</dateCreated>
+    <dateModified>Sun, 01 Mar 2020 16:20:52 -0000</dateModified>
+    <ownerName>Jonathan Rochkind</ownerName>
+    <ownerEmail>jonathan@rubyland.news</ownerEmail>
+  </head>
+  <body>
+    <outline text="AaronLasseigne.com" xmlUrl="https://aaronlasseigne.com/atom.atom" url="https://aaronlasseigne.com" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Adrian Serafin" xmlUrl="http://aserafin.pl/feed.xml" url="http://aserafin.pl" created="Tue, 12 Sep 2017 19:50:14 +0000"/>
+    <outline text="AkitaOnRails.com" xmlUrl="http://feeds.feedburner.com/AkitaOnRails" url="https://www.akitaonrails.com" created="Tue, 29 Nov 2016 21:49:40 +0000"/>
+    <outline text="Alfredo Motta" xmlUrl="http://www.alfredo.motta.name/feed/" url="http://www.alfredo.motta.name" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="All Ruby Podcasts by Devchat.tv" xmlUrl="https://feeds.feedwrench.com/RubyRogues.rss" url="http://devchat.tv" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="All talk but no code..." xmlUrl="http://lulalala.logdown.com/posts.rss" url="http://lulalala.logdown.com/" created="Tue, 12 Dec 2017 15:03:45 +0000"/>
+    <outline text="Andy Croll" xmlUrl="https://andycroll.com/rss.xml" url="https://andycroll.com/" created="Tue, 29 Nov 2016 21:50:16 +0000"/>
+    <outline text="Anthony Super" xmlUrl="https://anthony.noided.media/feed.xml" url="http://anthony.noided.media/" created="Sun, 12 Nov 2017 22:10:12 +0000"/>
+    <outline text="Anton Davydov" xmlUrl="https://www.davydovanton.com/atom.xml" url="http://davydovanton.com/" created="Fri, 19 Oct 2018 16:57:27 +0000"/>
+    <outline text="Appfolio Engineering" xmlUrl="http://engineering.appfolio.com/appfolio-engineering?format=RSS" url="http://engineering.appfolio.com/" created="Tue, 14 Mar 2017 16:38:01 +0000"/>
+    <outline text="avdi.codes" xmlUrl="https://avdi.codes/feed/" url="https://avdi.codes" created="Thu, 02 Nov 2017 12:51:08 +0000"/>
+    <outline text="Awesome Ruby Newsletter" xmlUrl="https://ruby.libhunt.com/newsletter/feed" url="https://ruby.libhunt.com/newsletter/feed" created="Fri, 22 Sep 2017 14:19:52 +0000"/>
+    <outline text="A Year of Commits" xmlUrl="http://jakeyesbeck.com/atom.xml" url="http://jakeyesbeck.com/" created="Thu, 13 Jul 2017 14:50:20 +0000"/>
+    <outline text="Blog" xmlUrl="https://www.monterail.com/blog/topic/ruby-rails/rss.xml" url="https://www.monterail.com/blog" created="Thu, 25 Oct 2018 14:10:12 +0000"/>
+    <outline text="Blog - Emily Freeman" xmlUrl="https://emilyfreeman.io/blog?format=RSS&amp;category=Ruby" url="https://emilyfreeman.io/blog/" created="Fri, 12 May 2017 20:07:26 +0000"/>
+    <outline text="blog of Marian Posăceanu - rubyist most of the time" xmlUrl="https://marianposaceanu.com/feed" url="https://marianposaceanu.com" created="Tue, 09 May 2017 14:50:15 +0000"/>
+    <outline text="Blog - Sandi Metz" xmlUrl="https://www.sandimetz.com/blog?format=RSS" url="https://www.sandimetz.com/blog/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Blog - Saturn Flyer" xmlUrl="https://www.saturnflyer.com/blog?format=RSS" url="https://www.saturnflyer.com/blog/" created="Wed, 22 Feb 2017 16:33:34 +0000"/>
+    <outline text="Blogs on Luca Guidi" xmlUrl="http://feeds.feedburner.com/LucaGuidi" url="https://lucaguidi.com/blog/" created="Wed, 08 Feb 2017 18:05:32 +0000"/>
+    <outline text="bogdanvlviv / Bogdan" xmlUrl="https://bogdanvlviv.com/feed-ruby.xml" url="https://bogdanvlviv.com/index.html" created="Thu, 25 May 2017 12:27:47 +0000"/>
+    <outline text="Boring Rails: Skip the bullshit and ship fast" xmlUrl="https://boringrails.com/feed.xml" url="https://boringrails.com/" created="Wed, 29 Jan 2020 15:26:19 +0000"/>
+    <outline text="Brandon Hilkert" xmlUrl="https://brandonhilkert.com/atom.xml" url="http://brandonhilkert.com/" created="Tue, 29 Nov 2016 21:50:36 +0000"/>
+    <outline text="Bundler Blog" xmlUrl="https://bundler.io/blog/feed.xml" url="http://bundler.io/blog" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Capsized Eight" xmlUrl="https://infinum.com/the-capsized-eight/tags/ruby-on-rails.rss" url="https://infinum.com/the-capsized-eight" created="Tue, 17 Jan 2017 16:14:54 +0000"/>
+    <outline text="Charles Oliver Nutter" xmlUrl="http://blog.headius.com/feed.xml" url="https://headius.github.io/" created="Sat, 21 Sep 2019 03:08:21 +0000"/>
+    <outline text="Christoph Lupprich" xmlUrl="https://christoph.luppri.ch/articles/feed.xml" url="https://christoph.luppri.ch/articles" created="Tue, 27 Jun 2017 12:49:23 +0000"/>
+    <outline text="code.dblock.org | tech blog" xmlUrl="https://code.dblock.org/feed.xml" url="https://code.dblock.org" created="Tue, 05 Mar 2019 18:28:56 +0000"/>
+    <outline text="Code Otaku" xmlUrl="https://www.codeotaku.com/journal/atom" url="http://www.codeotaku.com/journal/atom" created="Mon, 22 Oct 2018 01:54:57 +0000"/>
+    <outline text="Code with Jason" xmlUrl="https://www.codewithjason.com/feed/" url="https://www.codewithjason.com" created="Fri, 13 Jul 2018 14:43:48 +0000"/>
+    <outline text="Coding in the Crease News with tag(s): Ruby" xmlUrl="http://www.codinginthecrease.com/news_rss_feed?tags=948927" url="https://www.codinginthecrease.com/news_article/show_news/948927" created="Wed, 19 Apr 2017 18:17:26 +0000"/>
+    <outline text="Coding in the Crease News with tag(s): Ruby" xmlUrl="http://www.codinginthecrease.com/news_rss_feed?tags=948927" url="https://www.codinginthecrease.com/news_article/show_news/948927" created="Wed, 19 Apr 2017 18:17:26 +0000"/>
+    <outline text="Confreaks.tv - RailsConf 2016 Videos" xmlUrl="http://confreaks.tv/events/railsconf2016.atom" url="http://confreaks.tv" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Confreaks.tv - RailsConf 2017 Videos" xmlUrl="http://confreaks.tv/events/railsconf2017.atom" url="http://confreaks.tv" created="Sat, 06 May 2017 14:07:38 +0000"/>
+    <outline text="Confreaks.tv - Ruby Conference 2016 Videos" xmlUrl="http://confreaks.tv/events/rubyconf2016.atom" url="http://confreaks.tv" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Crafting Ruby" xmlUrl="http://craftingruby.com/feed.xml" url="http://craftingruby.com/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Creepy Wizard" xmlUrl="https://www.creepywizard.com/feed.xml" url="https://www.creepywizard.com/" created="Sun, 18 Feb 2018 15:38:00 +0000"/>
+    <outline text="dejimata" xmlUrl="https://dejimata.com/index.xml" url="" created="Sat, 20 May 2017 14:50:40 +0000"/>
+    <outline text="Depfu" xmlUrl="https://depfu.com/blog/feed.xml" url="https://depfu.com/" created="Fri, 28 Apr 2017 14:11:30 +0000"/>
+    <outline text="Drifting Ruby" xmlUrl="https://blog.driftingruby.com/feed/" url="https://blog.driftingruby.com" created="Mon, 24 Jul 2017 12:45:01 +0000"/>
+    <outline text="Drifting Ruby Screencasts" xmlUrl="https://www.driftingruby.com/episodes/feed.atom" url="https://www.driftingruby.com" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="dry-rb news" xmlUrl="https://dry-rb.org/feed.xml" url="http://dry-rb.org/news" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Duck Type Labs" xmlUrl="https://ducktypelabs.com/feed/" url="https://ducktypelabs.com" created="Tue, 30 May 2017 12:59:58 +0000"/>
+    <outline text="Dustin Zeisler" xmlUrl="http://dustinzeisler.com/feed.xml" url="http://dustinzeisler.com/" created="Mon, 13 Nov 2017 23:37:27 +0000"/>
+    <outline text="eileen.codes" xmlUrl="https://eileencodes.com/feed.xml" url="http://eileencodes.com/" created="Mon, 20 Nov 2017 19:41:46 +0000"/>
+    <outline text="Emmanuel Hayford" xmlUrl="https://emmanuelhayford.com/feed.xml" url="https://emmanuelhayford.com/" created="Fri, 30 Aug 2019 19:20:22 +0000"/>
+    <outline text="Engine Yard Blog" xmlUrl="https://www.engineyard.com/blog/topic/ruby-on-rails/rss.xml" url="https://www.engineyard.com/blog" created="Wed, 20 Dec 2017 14:18:46 +0000"/>
+    <outline text="EquiValent" xmlUrl="https://blog.eq8.eu/feed.xml" url="https://blog.eq8.eu/" created="Thu, 09 Feb 2017 17:51:22 +0000"/>
+    <outline text="Everyday Rails" xmlUrl="http://feeds.feedburner.com/EverydayRails" url="https://everydayrails.com/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="example.com" xmlUrl="http://blog.zenspider.com/atom.xml" url="http://www.zenspider.com/" created="Fri, 07 Apr 2017 19:22:59 +0000"/>
+    <outline text="Fast Ruby Blog" xmlUrl="https://www.fastruby.io/blog/rss.xml" url="https://fastruby.io/blog/" created="Wed, 22 Jan 2020 23:10:27 +0000"/>
+    <outline text="firedev.com" xmlUrl="http://firedev.com/feed.xml" url="http://firedev.com/" created="Sun, 18 Jun 2017 14:49:47 +0000"/>
+    <outline text="Gavin Miller" xmlUrl="http://gavinmiller.io/atom.xml" url="http://gavinmiller.io/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Getaround Engineering" xmlUrl="https://getaround.tech/feed.xml" url="https://getaround.tech/" created="Thu, 20 Apr 2017 19:29:35 +0000"/>
+    <outline text="Giant Robots Smashing Into Other Giant Robots" xmlUrl="https://thoughtbot.com/blog/ruby/feed" url="https://thoughtbot.com/blog" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Glauco Custódio" xmlUrl="http://glaucocustodio.github.io/feed.xml" url="https://glaucocustodio.github.io" created="Tue, 09 May 2017 14:47:38 +0000"/>
+    <outline text="Glenn Espinosa" xmlUrl="https://www.glennespinosa.com/feed.xml" url="http://glennespinosa.com/" created="Sun, 18 Jun 2017 14:48:47 +0000"/>
+    <outline text="GoRails Screencasts" xmlUrl="https://gorails.com/episodes.rss" url="https://gorails.com/episodes" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Greater Than Code" xmlUrl="https://feeds.fireside.fm/greaterthancode/rss" url="https://www.greaterthancode.com" created="Wed, 08 Feb 2017 18:07:41 +0000"/>
+    <outline text="Hanami" xmlUrl="http://hanamirb.org/atom.xml" url="http://hanamirb.org/blog" created="Wed, 16 Nov 2016 04:56:58 +0000"/>
+    <outline text="Heroku" xmlUrl="https://blog.heroku.com/authors/richard-schneeman/feed" url="http://blog.heroku.com" created="Thu, 18 Oct 2018 00:47:36 +0000"/>
+    <outline text="Hi, we're Arkency" xmlUrl="http://feeds.feedburner.com/arkency.xml" url="http://blog.arkency.com/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Hix on Rails" xmlUrl="https://hixonrails.com/feed/" url="https://hixonrails.com" created="Tue, 14 Jan 2020 15:01:38 +0000"/>
+    <outline text="Honeybadger Developer Blog" xmlUrl="https://www.honeybadger.io/blog/feed.xml" url="https://www.honeybadger.io/blog" created="Thu, 16 Feb 2017 22:37:24 +0000"/>
+    <outline text="Idiosyncratic Ruby" xmlUrl="https://idiosyncratic-ruby.com/feed.xml" url="https://idiosyncratic-ruby.com/index/" created="Wed, 02 May 2018 15:46:21 +0000"/>
+    <outline text="Igor writing about things" xmlUrl="https://www.morozov.is/feed.xml" url="https://www.morozov.is/" created="Sat, 12 Jan 2019 15:41:02 +0000"/>
+    <outline text="iridakos - ruby articles" xmlUrl="https://iridakos.com/feeds/ruby.xml" url="https://iridakos.com/" created="Tue, 09 Apr 2019 19:39:55 +0000"/>
+    <outline text="Janko’s Blog" xmlUrl="https://twin.github.io/feed.xml" url="http://twin.github.io/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Jekyll • Simple, blog-aware, static sites" xmlUrl="https://jekyllrb.com/feed.xml" url="https://jekyllrb.com/" created="Tue, 24 Apr 2018 18:31:56 +0000"/>
+    <outline text="Jesse Storimer - Working With Code" xmlUrl="http://feeds.feedburner.com/jstorimer" url="https://www.jstorimer.com/blogs/workingwithcode" created="Tue, 09 May 2017 14:44:56 +0000"/>
+    <outline text="JetRockets" xmlUrl="https://jetrockets.pro/blog.rss?tagged=ruby" url="http://jetrockets.pro" created="Wed, 21 Feb 2018 14:35:12 +0000"/>
+    <outline text="John Nunemaker" xmlUrl="http://feeds.feedburner.com/johnnunemakercom" url="http://johnnunemaker.com" created="Sat, 11 Nov 2017 14:52:06 +0000"/>
+    <outline text="JRuby.org News" xmlUrl="https://www.jruby.org/atom.xml" url="https://www.jruby.org" created="Fri, 07 Apr 2017 19:24:22 +0000"/>
+    <outline text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" url="http://jvns.ca" created="Mon, 22 Jan 2018 23:02:43 +0000"/>
+    <outline text="Junior Developer" xmlUrl="https://thomasleecopeland.com/rss.xml" url="https://thomasleecopeland.com" created="Wed, 06 Dec 2017 02:12:03 +0000"/>
+    <outline text="Justin Collins' Blugh" xmlUrl="https://blog.presidentbeef.com/atom.xml" url="http://presidentbeef.github.com/" created="Fri, 30 Nov 2018 02:16:23 +0000"/>
+    <outline text="Justin Weiss" xmlUrl="https://www.justinweiss.com/atom.xml" url="https://www.justinweiss.com/" created="Thu, 16 Feb 2017 22:41:34 +0000"/>
+    <outline text="Karol Galanciak - Distributed Systems Architect and Ruby on Rails expert" xmlUrl="https://karolgalanciak.com/atom.xml" url="https://karolgalanciak.com/" created="Tue, 26 Dec 2017 19:58:03 +0000"/>
+    <outline text="katafrakt's site" xmlUrl="http://katafrakt.me/feed.xml" url="http://katafrakt.me//" created="Thu, 05 Jul 2018 02:48:08 +0000"/>
+    <outline text="Kevin Menard’s Weblog" xmlUrl="https://nirvdrum.com/feed.xml" url="http://nirvdrum.com/" created="Tue, 09 May 2017 14:50:46 +0000"/>
+    <outline text="Kevin Sylvestre" xmlUrl="https://ksylvest.com/feed.atom" url="https://ksylvest.com" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Kir Shatrov" xmlUrl="https://kirshatrov.com/atom.xml" url="http://kirshatrov.com/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Kitty Con Gato" xmlUrl="https://travisofthenorth.com/blog?format=RSS" url="https://travisofthenorth.com/" created="Mon, 04 Dec 2017 22:19:45 +0000"/>
+    <outline text="Martian Chronicles, Evil Martians’ team blog" xmlUrl="https://evilmartians.com/chronicles.atom" url="https://evilmartians.com/chronicles" created="Tue, 15 Aug 2017 19:20:00 +0000"/>
+    <outline text="Matzにっき" xmlUrl="https://matz.rubyist.net/index.rdf" url="https://matz.rubyist.net/" created="Wed, 16 Nov 2016 04:56:58 +0000"/>
+    <outline text="Michael Cordell's Blog" xmlUrl="https://blog.mikecordell.com/atom.xml" url="https://blog.mikecordell.com/" created="Sun, 11 Jun 2017 16:18:45 +0000"/>
+    <outline text="Michał Konarski" xmlUrl="https://mjk.space/feed.xml" url="https://mjk.space/" created="Mon, 10 Jul 2017 17:03:14 +0000"/>
+    <outline text="MIKAMAYHEM" xmlUrl="https://dev.mikamai.com/feed/" url="https://dev.mikamai.com" created="Mon, 28 Nov 2016 00:40:38 +0000"/>
+    <outline text="Mike Perham" xmlUrl="https://www.mikeperham.com/index.xml" url="https://www.mikeperham.com" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="nasseri.io RSS Feed" xmlUrl="https://www.nasseri.io/index.xml" url="https://www.nasseri.io/" created="Mon, 28 Aug 2017 20:05:05 +0000"/>
+    <outline text="Notes to self" xmlUrl="http://nts.strzibny.name/feed/" url="http://nts.strzibny.name" created="Thu, 12 Jan 2017 23:43:18 +0000"/>
+    <outline text="NRoweGT: Atlanta Ruby on Rails Consultancy" xmlUrl="http://blog.nrowegt.com/rss.xml" url="http://blog.nrowegt.com/" created="Thu, 01 Dec 2016 20:27:32 +0000"/>
+    <outline text="Olivier Lacan" xmlUrl="http://feed.olivierlacan.com/" url="https://olivierlacan.com" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="OmbuLabs Blog" xmlUrl="https://www.ombulabs.com/blog/rss.xml" url="https://www.ombulabs.com/blog/" created="Sun, 20 Nov 2016 22:55:31 +0000"/>
+    <outline text="On the Edge of Ruby" xmlUrl="https://eregon.me/blog/feed.xml" url="http://eregon.me/blog/" created="Sun, 11 Feb 2018 20:38:15 +0000"/>
+    <outline text="Passenger - Phusion Blog" xmlUrl="https://blog.phusion.nl/tag/passenger/rss/" url="https://blog.phusion.nl/" created="Thu, 14 Dec 2017 18:36:33 +0000"/>
+    <outline text="Pat Shaughnessy" xmlUrl="http://feeds.feedburner.com/patshaughnessy" url="" created="Tue, 29 Nov 2016 21:50:05 +0000"/>
+    <outline text="Paweł U. | Ruby on Rails Web Development Consultant Full Stack Blog" xmlUrl="https://pawelurbanek.com/feed.xml" url="https://pawelurbanek.com/" created="Wed, 17 Jan 2018 13:57:56 +0000"/>
+    <outline text="Posts" xmlUrl="https://gettalong.org/posts.atom" url="https://gettalong.org/" created="Thu, 08 Dec 2016 15:42:55 +0000"/>
+    <outline text="Posts on vaneyckt.io" xmlUrl="https://vaneyckt.io/posts/index.xml" url="https://vaneyckt.io/posts/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Prathamesh Sonpatki" xmlUrl="https://prathamesh.tech/rss/" url="https://prathamesh.tech/" created="Mon, 02 Sep 2019 15:04:36 +0000"/>
+    <outline text="RailsApps" xmlUrl="http://blog.railsapps.org/rss" url="https://blog.railsapps.org/" created="Tue, 29 Nov 2016 21:49:52 +0000"/>
+    <outline text="rails - Sips &amp; Bits by michelada.io" xmlUrl="https://sipsandbits.com/tag/rails/rss/" url="https://sipsandbits.com/" created="Tue, 17 Jul 2018 14:55:33 +0000"/>
+    <outline text="Rails with Jason" xmlUrl="https://rss.simplecast.com/podcasts/10758/rss" url="https://www.codewithjason.com/rails-with-jason-podcast" created="Wed, 29 Jan 2020 17:12:45 +0000"/>
+    <outline text="Ramblings of a techie" xmlUrl="http://tech.bragboy.com/feeds/posts/default" url="http://tech.bragboy.com/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Rebased Blog" xmlUrl="https://blog.rebased.pl/feed.xml" url="https://blog.rebased.pl/" created="Fri, 01 Dec 2017 01:30:58 +0000"/>
+    <outline text="Red Panthers" xmlUrl="https://blog.redpanthers.co/feed/" url="https://redpanthers.co" created="Thu, 02 Mar 2017 16:56:21 +0000"/>
+    <outline text="Rémi Mercier" xmlUrl="https://remimercier.com/feed.xml" url="https://remimercier.com/" created="Mon, 18 Nov 2019 18:01:27 +0000"/>
+    <outline text="Remote Ruby" xmlUrl="https://feeds.transistor.fm/remote-ruby" url="https://remoteruby.transistor.fm" created="Fri, 14 Sep 2018 04:01:50 +0000"/>
+    <outline text="Riding Rails" xmlUrl="https://weblog.rubyonrails.org/feed/atom.xml" url="https://weblog.rubyonrails.org/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="rossta.net" xmlUrl="https://rossta.net/feed.xml" url="https://rossta.net/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Ruby – AWS Developer Blog" xmlUrl="https://aws.amazon.com/blogs/developer/category/programing-language/ruby/feed/" url="https://aws.amazon.com/blogs/developer/" created="Fri, 07 Apr 2017 19:26:17 +0000"/>
+    <outline text="ruby – Bibliographic Wilderness" xmlUrl="https://bibwild.wordpress.com/feed/?tag=ruby" url="https://bibwild.wordpress.com" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="RubyBlog.pro" xmlUrl="http://rubyblog.pro/ruby?format=rss" url="http://rubyblog.pro/" created="Sat, 02 Sep 2017 15:10:31 +0000"/>
+    <outline text="Ruby Changes" xmlUrl="https://rubyreferences.github.io/rubychanges/feed.xml" url="https://rubyreferences.github.io/rubychanges/" created="Mon, 09 Dec 2019 03:59:25 +0000"/>
+    <outline text="Ruby Conferences 'n' Camps in 2020 - What's Upcoming?" xmlUrl="https://planetruby.github.io/calendar/feed.xml" url="http://planetruby.github.io/calendar/2020" created="Thu, 11 Jan 2018 20:48:52 +0000"/>
+    <outline text="Ruby – Dog Snog dot Blog" xmlUrl="https://dogsnog.blog/feed/?tag=ruby" url="https://dogsnog.blog" created="Tue, 05 Dec 2017 17:19:53 +0000"/>
+    <outline text="Ruby Facets" xmlUrl="https://rss.simplecast.com/podcasts/2316/rss" url="http://rubyfacets.com" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="RubyGarage Blog" xmlUrl="https://rubygarage.org/blog.rss?search=ruby" url="https://rubygarage.org/blog.rss" created="Tue, 09 May 2017 14:58:53 +0000"/>
+    <outline text="RubyGems Blog" xmlUrl="https://blog.rubygems.org/atom.xml" url="http://blog.rubygems.org/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="RubyGuides" xmlUrl="https://www.rubyguides.com/feed/" url="https://www.rubyguides.com" created="Thu, 08 Dec 2016 16:30:42 +0000"/>
+    <outline text="Ruby • Hrvoje Šimić" xmlUrl="https://shime.sh/ruby.xml" url="http://shime.sh" created="Thu, 09 Jan 2020 19:24:26 +0000"/>
+    <outline text="Ruby Inside - Medium" xmlUrl="https://medium.com/feed/rubyinside" url="https://medium.com/rubyinside?source=rss----235b73ea0b2e---4" created="Thu, 23 Mar 2017 03:12:19 +0000"/>
+    <outline text="Ruby in Source Diving on Medium" xmlUrl="https://medium.com/feed/sourcediving/tagged/ruby" url="https://sourcediving.com/tagged/ruby?source=rss----217db81c7a01--ruby" created="Sun, 05 Jan 2020 19:09:05 +0000"/>
+    <outline text="Ruby Magic by AppSignal" xmlUrl="https://blog.appsignal.com/ruby-magic-feed.xml" url="https://blog.appsignal.com" created="Wed, 10 May 2017 14:29:43 +0000"/>
+    <outline text="RubyMine Blog" xmlUrl="http://feeds.feedburner.com/jetbrains_rubymine?format=xml" url="https://blog.jetbrains.com/ruby" created="Sat, 13 Jan 2018 18:12:48 +0000"/>
+    <outline text="Ruby News" xmlUrl="https://www.ruby-lang.org/en/feeds/news.rss" url="https://www.ruby-lang.org/en/feeds/news.rss" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Ruby on Rails – frontdeveloper.pl" xmlUrl="https://frontdeveloper.pl/category/ruby-on-rails/feed/" url="https://frontdeveloper.pl" created="Thu, 18 Oct 2018 00:45:24 +0000"/>
+    <outline text="Ruby on Rails Podcast" xmlUrl="http://feeds.5by5.tv/rubyonrails" url="http://5by5.tv/rubyonrails" created="Tue, 05 Jun 2018 17:00:46 +0000"/>
+    <outline text="ruby on Tales from a Codemancer" xmlUrl="https://crypt.codemancers.com/tags/ruby/index.xml" url="https://crypt.codemancers.com/tags/ruby/" created="Tue, 14 Aug 2018 13:23:07 +0000"/>
+    <outline text="Ruby Pigeon" xmlUrl="https://www.rubypigeon.com/feed.xml" url="http://www.rubypigeon.com/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="RubySec" xmlUrl="https://rubysec.com/atom.xml" url="https://rubysec.com/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Ruby – Sihui Huang" xmlUrl="https://www.sihui.io/category/ruby/feed/" url="https://www.sihui.io" created="Tue, 12 Sep 2017 17:00:52 +0000"/>
+    <outline text="Ruby – SitePoint" xmlUrl="https://www.sitepoint.com/ruby/feed/" url="https://www.sitepoint.com" created="Wed, 19 Apr 2017 01:15:31 +0000"/>
+    <outline text="Ruby Together News" xmlUrl="https://rubytogether.org/news.xml" url="https://rubytogether.org/news" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Ruby – Travis Codes" xmlUrl="http://blog.travisspangle.com/category/ruby/feed/" url="http://blog.travisspangle.com" created="Fri, 12 Jan 2018 17:15:12 +0000"/>
+    <outline text="Ruby Tuesday" xmlUrl="https://rubytuesday.katafrakt.me/feed.xml" url="https://rubytuesday.katafrakt.me/" created="Wed, 17 Jan 2018 03:32:17 +0000"/>
+    <outline text="Ruby Weekly" xmlUrl="http://rubyweekly.com/rss/12nfj9m4" url="https://rubyweekly.com/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Running with Ruby" xmlUrl="https://mensfeld.pl/feed/" url="https://mensfeld.pl" created="Sat, 11 Nov 2017 15:38:02 +0000"/>
+    <outline text="Saeloun Blog" xmlUrl="https://blog.saeloun.com/feed.xml" url="https://blog.saeloun.com/" created="Tue, 15 Oct 2019 16:46:32 +0000"/>
+    <outline text="Sam Saffron" xmlUrl="https://samsaffron.com/posts.rss" url="https://samsaffron.com/posts.rss" created="Fri, 19 Jan 2018 02:48:56 +0000"/>
+    <outline text="Schneems - Programming Practices, Performance, and Pedantry" xmlUrl="https://www.schneems.com/feed.xml" url="https://www.schneems.com/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="SciRuby" xmlUrl="http://sciruby.com/atom.xml" url="http://sciruby.com/" created="Wed, 23 Aug 2017 12:58:10 +0000"/>
+    <outline text="Scott Bartell" xmlUrl="https://scottbartell.com/feed.xml" url="https://scottbartell.com/" created="Wed, 29 Jan 2020 13:53:42 +0000"/>
+    <outline text="Scott Watermasysk" xmlUrl="https://scottw.com/feed.xml" url="https://scottw.com" created="Mon, 21 Jan 2019 23:51:35 +0000"/>
+    <outline text="Search Results for “ruby” – Journeys of a not so young anymore Software Engineer" xmlUrl="https://pragtob.wordpress.com/feed/?s=ruby" url="https://pragtob.wordpress.com" created="Tue, 29 Aug 2017 23:28:52 +0000"/>
+    <outline text="Search Results for “ruby” – via @codeship" xmlUrl="https://blog.codeship.com/feed/?s=ruby" url="https://blog.codeship.com" created="Mon, 05 Jun 2017 23:40:41 +0000"/>
+    <outline text="Sinatra" xmlUrl="http://sinatrarb.com/feed.xml" url="http://sinatra.github.com/" created="Sun, 05 Mar 2017 00:56:04 +0000"/>
+    <outline text="solnic.codes" xmlUrl="https://solnic.codes/feed/" url="https://solnic.codes" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Soulcutter" xmlUrl="http://www.soulcutter.com/feed.xml" url="http://www.soulcutter.com/" created="Mon, 19 Mar 2018 03:50:13 +0000"/>
+    <outline text="Speedshop - Ruby on Rails performance consulting" xmlUrl="https://www.speedshop.co/feed.xml" url="https://www.speedshop.co/" created="Sun, 20 Nov 2016 22:55:31 +0000"/>
+    <outline text="Super Good Software" xmlUrl="https://supergood.software/rss.xml" url="https://supergood.software" created="Tue, 17 Jul 2018 17:26:59 +0000"/>
+    <outline text="Tender Lovemaking" xmlUrl="https://tenderlovemaking.com/atom.xml" url="http://tenderlovemaking.com/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Test Double | Our Blog" xmlUrl="http://blog.testdouble.com/index.xml" url="https://blog.testdouble.com/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="The Bike Shed" xmlUrl="https://feeds.simplecast.com/ky3kewHN" url="https://www.bikeshed.fm" created="Tue, 30 May 2017 13:00:55 +0000"/>
+    <outline text="The Life of a Radar" xmlUrl="http://feeds.feedburner.com/ryanbigg" url="http://ryanbigg.com" created="Tue, 09 May 2017 14:46:36 +0000"/>
+    <outline text="The Miners" xmlUrl="https://blog.codeminer42.com/feed/" url="https://blog.codeminer42.com" created="Mon, 05 Dec 2016 16:43:41 +0000"/>
+    <outline text="The Official BigBinary Blog | BigBinary" xmlUrl="https://blog.bigbinary.com/feed.xml" url="https://blog.bigbinary.com/" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="The Thoughtnotes | Ruby" xmlUrl="https://the-thoughtnotes.firebaseapp.com/feed/ruby.xml" url="https://blog.klimenko.site/" created="Fri, 26 Oct 2018 13:57:47 +0000"/>
+    <outline text="Tom Dalling" xmlUrl="https://www.tomdalling.com/blog/category/ruby/feed/" url="http://www.tomdalling.com/?utm_source=rss&amp;utm_medium=rss" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="tom-lord.github.io" xmlUrl="https://tom-lord.github.io/feed.xml" url="https://tom-lord.github.io/" created="Mon, 11 Dec 2017 18:32:05 +0000"/>
+    <outline text="Toxic Elephant" xmlUrl="https://www.matijs.net/blog/articles.atom" url="http://www.matijs.net/blog" created="Tue, 26 Sep 2017 17:51:16 +0000"/>
+    <outline text="Universe Engineering - Medium" xmlUrl="https://engineering.universe.com/feed" url="https://engineering.universe.com?source=rss----a1cd8e0d60b2---4" created="Wed, 16 Aug 2017 16:27:00 +0000"/>
+    <outline text="Valentino Gagliardi - RSS Feed" xmlUrl="https://www.valentinog.com/blog/rss.xml" url="https://www.valentinog.com/blog" created="Wed, 23 Aug 2017 13:00:10 +0000"/>
+    <outline text="Virtuous Code" xmlUrl="http://www.virtuouscode.com/feed/" url="http://www.virtuouscode.com" created="Fri, 11 Nov 2016 02:18:32 +0000"/>
+    <outline text="Vladimir Makarov – Red Hat Developer" xmlUrl="https://developers.redhat.com/blog/author/vnmakarov/feed/" url="https://developers.redhat.com/blog" created="Fri, 23 Mar 2018 17:56:37 +0000"/>
+    <outline text="With a Twist" xmlUrl="https://withatwist.dev/feed.xml" url="https://withatwist.dev/" created="Mon, 08 Jul 2019 14:51:41 +0000"/>
+    <outline text="Zorganizowana Grupa Basketu ZetGieBe" xmlUrl="https://frontdeveloper.pl/feed/" url="https://zetgiebe.pl" created="Mon, 07 Jan 2019 20:34:11 +0000"/>
+    <outline text="zverok with ruby" xmlUrl="https://zverok.github.io/feed.xml" url="https://zverok.github.io/" created="Sat, 25 Feb 2017 02:32:06 +0000"/>
+    <outline text="" xmlUrl="https://victorafanasev.info/feed.xml" url="https://victorafanasev.info/" created="Tue, 08 Jan 2019 16:57:54 +0000"/>
+    <outline text="" xmlUrl="https://railsgirlssummerofcode.org/blog.xml" url="" created="Wed, 19 Feb 2020 21:32:06 +0000"/>
+  </body>
+</opml>
