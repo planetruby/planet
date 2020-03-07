@@ -1,153 +1,484 @@
-Channels (updated+items_last_updated)
-   1d   2020-03-03 13:00:00 UTC -   34 - Rails with Jason Podcast › Jason Swett @ https://rss.simplecast.com/podcasts/10758/rss
-   1d    >2020-03-03 19:17:33 UTC< / >2020-03-03 13:00:00 UTC<   -- rss 2.0 >https://simplecast.com<
+::  55 channels, 2610 items
 
-   1d   2020-03-03 11:03:00 UTC -  562 - Ruby Rogues (RR) Podcast @ https://feeds.feedwrench.com/RubyRogues.rss
-   1d    >2020-03-03 12:17:30 UTC< / ><   -- rss 2.0 ><
+Channels
+   1d   2020-03-06 13:00:00 UTC -   68 (637d) - Remote Ruby Podcast › Chris Oliver, Jason Charnes and Andrew Mason @ https://feeds.transistor.fm/remote-ruby
+   1d    >2020-03-06 13:12:04 UTC< / >2020-03-06 13:00:00 UTC<   -- rss 2.0 >Transistor (https://transistor.fm)< @ >cloudflare<
+  *    1d   >2020-03-06 13:00:00 UTC<  - >Tailwind UI, Hanami::API, Puma security fixes, and more<
+  *   12d   >2020-02-24 18:00:00 UTC<  - >RailsConf Proposals, Building Forms with StimulusReflex, and More<
+  *   22d   >2020-02-14 15:00:00 UTC<  - >Joined by Jonathan Reinink, Creator of Inertia.js<
+  *   26d   >2020-02-10 18:00:00 UTC<  - >StimulusReflex at CodeFund, Testing ChurchChat, Encryption Gems, Inspecting Hey.com<
+  *   33d   >2020-02-03 18:00:00 UTC<  - >Mental Health, Rails Upgrades, Jason's New Project, Bootstrap Shift, and More<
+  *   36d   >2020-01-31 21:00:00 UTC<  - >New Jumpstart Features, Postponing Southeast Ruby 2020, and (Possibly) a New Online Ruby Conference<
 
-   1d   2020-03-03 00:00:00 UTC -  411 - Big Binary Blog @ https://blog.bigbinary.com/feed.xml
-   1d    >2020-03-03 16:39:58 UTC< / ><   -- atom ><
+   1d   2020-03-06 11:00:58 UTC -   20 (373d) - RubyMine News @ http://feeds.feedburner.com/jetbrains_rubymine?format=xml
+   1d    >2020-03-06 15:51:25 UTC< / ><   -- rss 2.0 >https://wordpress.org/?v=4.4.21< @ >GSE<
+  *    1d   >2020-03-06 11:00:58 UTC<  - >RubyMine 2020.1 EAP7: Editor and Autocompletion Improvements<
+  *    9d   >2020-02-27 15:00:50 UTC<  - >RubyMine 2020.1 EAP6: Unified UI for SSH Configuration<
+  *   19d   >2020-02-17 10:00:00 UTC<  - >RubyMine 2020.1 EAP4: Improvements in Navigation Between Rails Entities<
+  *   40d   >2020-01-27 14:44:38 UTC<  - >RubyMine 2020.1 EAP is Open!<
+  *  100d   >2019-11-28 12:00:51 UTC<  - >RubyMine 2019.3 Released: RuboCop Severities Mapping, Better Run Anything, and More<
+  *  150d   >2019-10-09 10:48:06 UTC<  - >Find usages in RubyMine<
 
-   2d   2020-03-02 22:13:08 UTC -   11 - Piotr Murach @ https://piotrmurach.com/feed.xml
-   3d    >2020-03-01 20:44:00 UTC< / ><   -- atom ><
+   2d   2020-03-05 00:00:00 UTC -   10 (1807d) - Thibaut Barrère @ https://thibautbarrere.com/rss.xml
+   2d    >2020-03-05 19:43:49 UTC< / ><   -- atom >< @ >Netlify<
+  *    2d   >2020-03-05 00:00:00 UTC<  - >What's new in Kiba ETL v3 (visually explained)<
+  *  513d   >2018-10-11 00:00:00 UTC<  - >Ruby Kaigi 2018 talk - Kiba ETL data pipelines<
+  *  513d   >2018-10-11 00:00:00 UTC<  - >Getting programmatic feedback from Kiba ETL<
+  * 1580d   >2015-11-09 00:00:00 UTC<  - >Live Coding: Processing data with Kiba ETL<
+  * 1624d   >2015-09-26 00:00:00 UTC<  - >How to run Kiba ETL in a Rails environment?<
+  * 1717d   >2015-06-25 00:00:00 UTC<  - >How to explode multivalued attributes with Kiba ETL?<
 
-   2d   2020-03-02 11:07:28 UTC -   10 - Piotr Solnica @ https://solnic.codes/feed/
-   2d    >2020-03-02 12:19:18 UTC< / ><   -- rss 2.0 ><
+   3d   2020-03-04 00:00:00 UTC -   35 (3307d) - Luca Guidi @ https://lucaguidi.com/index.xml
+   3d    >2020-03-04 00:00:00 UTC< / ><   -- rss 2.0 >Hugo -- gohugo.io< @ >Netlify<
+  *    3d   >2020-03-04 00:00:00 UTC<  - >Hanami::API on Amazon AWS Lambda<
+  *  879d   >2017-10-10 00:00:00 UTC<  - >Introducing hanami-cli<
+  * 1123d   >2017-02-08 00:00:00 UTC<  - >How To Test Ruby CLI: Console<
+  * 1130d   >2017-02-01 00:00:00 UTC<  - >How To Test Ruby CLI: Code Generators<
+  * 1142d   >2017-01-20 00:00:00 UTC<  - >How To Test Ruby CLI: The Setup<
+  * 1145d   >2017-01-17 00:00:00 UTC<  - >Lessons Learned In Open Source: The Motivations<
 
-   2d   2020-03-02 04:29:32 UTC -   15 - Prathamesh Sonpatki @ https://prathamesh.tech/rss/
-   1d    >2020-03-03 09:16:58 UTC< / ><   -- rss 2.0 >Ghost 2.23<
+   3d   2020-03-04 00:00:00 UTC -   10 (562d) - Phil Nash @ https://philna.sh/feed.xml
+   3d    >2020-03-04 23:28:05 UTC< / >2020-03-04 23:28:05 UTC<   -- rss 2.0 >Jekyll v3.8.6< @ >cloudflare<
+  *    3d   >2020-03-04 00:00:00 UTC<  - >Mistakes I've made treating file paths as strings<
+  *   38d   >2020-01-29 00:00:00 UTC<  - >How to find CFPs for developer conferences<
+  *   52d   >2020-01-15 00:00:00 UTC<  - >Testing signed and encrypted cookies in Rails<
+  *  195d   >2019-08-25 23:00:00 UTC<  - >How not to sort an array in JavaScript<
+  *  422d   >2019-01-10 00:00:00 UTC<  - >How to start a Node.js project<
+  *  429d   >2019-01-03 00:00:00 UTC<  - >2018 in review<
 
-   2d   2020-03-02 00:00:00 UTC -   10 - JRuby Lang News @ http://www.jruby.org/atom.xml
-   2d    >2020-03-02 20:51:42 UTC< / ><   -- atom ><
+   4d   2020-03-03 23:00:00 UTC -    6 (162d) - Ruby Magic Blog › App Signal @ https://blog.appsignal.com/ruby-magic-feed.xml
+   4d    >2020-03-03 23:00:00 UTC< / ><   -- atom >< @ >Netlify<
+  *    4d   >2020-03-03 23:00:00 UTC<  - >Building a Rails App With Multiple Subdomains<
+  *   25d   >2020-02-11 23:00:00 UTC<  - >Getting Started With System Tests in Rails With Minitest<
+  *   53d   >2020-01-14 23:00:00 UTC<  - >Pros and Cons of Using structure.sql in Your Ruby on Rails Application<
+  *   82d   >2019-12-16 23:00:00 UTC<  - >Top 10 AppSignal Blog Posts in 2019<
+  *  100d   >2019-11-28 23:00:00 UTC<  - >Configurable Ruby Modules: The Module Builder Pattern<
+  *  166d   >2019-09-23 22:00:00 UTC<  - >Ruby Templating: Baking an Interpreter<
 
-   2d   2020-03-02 00:00:00 UTC -   10 - Ruby Conferences & Camps News @ http://planetruby.github.io/calendar/feed.xml
-   2d    >2020-03-02 17:15:45 UTC< / ><   -- atom ><
+   4d   2020-03-03 13:00:00 UTC -   34 (307d) - Rails with Jason Podcast › Jason Swett @ https://rss.simplecast.com/podcasts/10758/rss
+   1d    >2020-03-06 20:24:54 UTC< / >2020-03-03 13:00:00 UTC<   -- rss 2.0 >https://simplecast.com< @ >Simplecast.com/v2.0<
+  *    4d   >2020-03-03 13:00:00 UTC<  - >034 - David Bryant Copeland, Author of Sustainable Web Development with Ruby on Rails<
+  *   11d   >2020-02-25 14:00:00 UTC<  - >033 - How to Speak at Conferences with Karl Hughes, Creator of CFP Land<
+  *   18d   >2020-02-18 13:00:00 UTC<  - >032 - Test Desiderata with Kent Beck and Kelly Sutton<
+  *   25d   >2020-02-11 13:00:00 UTC<  - >031 - Noah Gibbs on His New Book, Mastering Software Technique<
+  *   32d   >2020-02-04 13:00:00 UTC<  - >029 - AWS Deployment with Andreas Wittig<
+  *   39d   >2020-01-28 13:00:00 UTC<  - >028 - Sandi Metz, Author of POODR (with Special Guest TJ Stankus)<
 
-   3d   2020-03-01 00:00:00 UTC -   10 - Ruby on Rails News @ http://weblog.rubyonrails.org/feed/atom.xml
-   2d    >2020-03-02 03:30:32 UTC< / ><   -- atom >Jekyll<
+   4d   2020-03-03 11:03:00 UTC -  562 (3224d) - Ruby Rogues (RR) Podcast @ https://feeds.feedwrench.com/RubyRogues.rss
+   4d    >2020-03-03 12:17:30 UTC< / ><   -- rss 2.0 >< @ >nginx/1.10.3 (Ubuntu)<
+  *    4d   >2020-03-03 11:03:00 UTC<  - >RR 451: Pair Programming with Ian Norris<
+  *   11d   >2020-02-25 11:07:00 UTC<  - >RR 450: Writing Ruby for the Apple II with Colin Fulton<
+  *   18d   >2020-02-18 11:00:00 UTC<  - >RR 449: Everything worth doing has already been done with Zachary Schroeder<
+  *   32d   >2020-02-04 11:00:00 UTC<  - >RR 448: How To Avoid Catastrophes with Jon Druse<
+  *   46d   >2020-01-21 11:00:00 UTC<  - >RR 447: All About Kafka and Oracle with Bob Quillin and Karthik Gaekwad<
+  *   46d   >2020-01-21 11:00:00 UTC<  - >MRS 102: Elia Schito<
 
-   3d   2020-03-01 00:00:00 UTC -    5 - Andy Croll @ https://andycroll.com/rss.xml
-   1d    >2020-03-03 18:08:37 UTC< / ><   -- atom >Jekyll<
+   4d   2020-03-03 00:00:00 UTC -  411 (4679d) - Big Binary Blog @ https://blog.bigbinary.com/feed.xml
+   4d    >2020-03-03 16:39:58 UTC< / ><   -- atom >< @ >Netlify<
+  *    4d   >2020-03-03 00:00:00 UTC<  - >Ruby 2.7 introduces numbered parameters as default block parameters<
+  *   11d   >2020-02-25 00:00:00 UTC<  - >Rails 6 fixes a bug where after_commit callbacks are called on failed update in a transaction block<
+  *   18d   >2020-02-18 00:00:00 UTC<  - >Ruby 2.7 adds Enumerable#tally<
+  *   32d   >2020-02-04 00:00:00 UTC<  - >Rails 6.1 introduces class_names helper<
+  *   60d   >2020-01-07 00:00:00 UTC<  - >Rails Multiple Polymorphic Joins<
+  *   88d   >2019-12-10 00:00:00 UTC<  - >Rails 6 adds rails db:prepare to migrate or setup a database<
 
-   5d   2020-02-28 00:00:00 UTC -  341 - Rails Girls Summer of Code News @ https://railsgirlssummerofcode.org/blog.xml
-   2d    >2020-03-02 08:15:26 UTC< / ><   -- atom ><
+   5d   2020-03-02 22:13:08 UTC -   11 (416d) - Piotr Murach @ https://piotrmurach.com/feed.xml
+   6d    >2020-03-01 20:44:00 UTC< / ><   -- atom >< @ >AmazonS3<
+  *    5d   >2020-03-02 22:13:08 UTC<  - >My 2019 Annual Review: Not Too Shabby<
+  *    5d   >2020-03-02 21:54:18 UTC<  - >Writing a Ruby Gem Specification<
+  *    6d   >2020-03-01 15:58:16 UTC<  - >Nobody Cares About Your Software<
+  *    6d   >2020-03-01 15:57:52 UTC<  - >The Path to Learning a Programming Language<
+  *    6d   >2020-03-01 15:57:00 UTC<  - >My 2018 Annual Review<
+  *    6d   >2020-03-01 15:54:25 UTC<  - >Bad Blood - A Tale of a Modern Vampire<
 
-   5d   2020-02-28 00:00:00 UTC -    9 - Jamie Schembri @ https://blog.schembri.me/index.xml
- 560d    >2018-08-22 00:00:00 UTC< / ><   -- rss 2.0 >Hugo -- gohugo.io<
+   5d   2020-03-02 11:07:28 UTC -   10 (1627d) - Piotr Solnica @ https://solnic.codes/feed/
+   5d    >2020-03-02 12:19:18 UTC< / ><   -- rss 2.0 >< @ >nginx<
+  *    5d   >2020-03-02 11:07:28 UTC<  - >Open Source Status Update<
+  *  185d   >2019-09-04 10:28:29 UTC<  - >GitHub Sponsorship<
+  *  401d   >2019-01-31 13:04:18 UTC<  - >Introducing dry-schema<
+  *  556d   >2018-08-29 12:15:04 UTC<  - >A quick​ recap and plans for the future<
+  * 1221d   >2016-11-02 19:00:00 UTC<  - >Duck typing vs type safety in Ruby<
+  * 1377d   >2016-05-30 18:00:00 UTC<  - >Abstractions and the role of a framework<
 
-   6d   2020-02-27 15:00:50 UTC -   20 - RubyMine News @ http://feeds.feedburner.com/jetbrains_rubymine?format=xml
-   5d    >2020-02-28 13:44:22 UTC< / ><   -- rss 2.0 >https://wordpress.org/?v=4.4.21<
+   5d   2020-03-02 04:29:32 UTC -   15 (193d) - Prathamesh Sonpatki @ https://prathamesh.tech/rss/
+   2d    >2020-03-05 18:08:49 UTC< / ><   -- rss 2.0 >Ghost 2.23< @ >cloudflare<
+  *    5d   >2020-03-02 04:29:32 UTC<  - >Converting Unix epoch timestamps to Ruby objects<
+  *   13d   >2020-02-23 05:04:16 UTC<  - >Pending cops in Rubocop to make upgrade easier<
+  *   28d   >2020-02-08 22:55:07 UTC<  - >How to get feedback on your Ruby blog posts<
+  *   38d   >2020-01-29 17:49:28 UTC<  - >User friendly servers list in New Relic<
+  *   65d   >2020-01-02 04:15:47 UTC<  - >Being paranoid about user enumeration attack using Devise gem in Rails apps<
+  *   72d   >2019-12-26 17:20:59 UTC<  - >Managing warnings emitted by Ruby 2.7<
 
-   6d   2020-02-27 12:00:00 UTC -  308 - Ruby on Rails Podcast › Brittany Martin @ http://feeds.5by5.tv/rubyonrails
-   6d    >< / >2020-02-27 12:00:00 UTC<   -- rss 2.0 ><
+   5d   2020-03-02 00:00:00 UTC -   10 (479d) - JRuby Lang News @ http://www.jruby.org/atom.xml
+   5d    >2020-03-02 20:51:42 UTC< / ><   -- atom >< @ >GitHub.com<
+  *    5d   >2020-03-02 00:00:00 UTC<  - >JRuby 9.2.11.0 Released<
+  *   18d   >2020-02-18 00:00:00 UTC<  - >JRuby 9.2.10.0 Released<
+  *  129d   >2019-10-30 00:00:00 UTC<  - >JRuby 9.2.9.0 Released<
+  *  208d   >2019-08-12 00:00:00 UTC<  - >JRuby 9.2.8.0 Released<
+  *  333d   >2019-04-09 00:00:00 UTC<  - >JRuby 9.2.7.0 Released<
+  *  390d   >2019-02-11 00:00:00 UTC<  - >JRuby 9.2.6.0 Released<
 
-   7d   2020-02-26 13:23:35 UTC -   10 - Hanami News @ https://hanamirb.org/atom.xml
-   7d    >2020-02-26 13:23:35 UTC< / ><   -- atom ><
+   5d   2020-03-02 00:00:00 UTC -   10 (90d) - Ruby Conferences & Camps News @ http://planetruby.github.io/calendar/feed.xml
+   1d    >2020-03-06 18:16:45 UTC< / ><   -- atom >< @ >GitHub.com<
+  *    5d   >2020-03-02 00:00:00 UTC<  - >CANCELED! - Wrocław <3 Ruby (wroclove.rb) @ Wrocław, Poland Announced<
+  *    6d   >2020-03-01 00:00:00 UTC<  - >NEW DATE! - RubyKaigi @ Nagano, Japan Announced<
+  *   32d   >2020-02-04 00:00:00 UTC<  - >RubyNess @ Inverness, Scotland, United Kingdom Announced<
+  *   32d   >2020-02-04 00:00:00 UTC<  - >Ruby by the Bay (Ruby for Good, West Coast Edition) @ Marin Headlands (near San Francisco), California, United States Announced<
+  *   40d   >2020-01-27 00:00:00 UTC<  - >Ruby Retreat New Zealand (NZ) @ Mt Cheeseman (near Christchurch), New Zealand Announced<
+  *   51d   >2020-01-16 00:00:00 UTC<  - >Rails Camp West @ Diablo Lake, Washington, United States Announced<
 
-   9d   2020-02-24 23:00:00 UTC -    3 - Deep Dive › Hrvoje Šimić @ https://deepdive.sh/feed.xml
-   ?     >< / ><   -- rss 2.0 ><
+   5d   2020-03-02 00:00:00 UTC -    6 (98d) - Ross Kaffenberger @ https://rossta.net/feed.xml
+   5d    >2020-03-02 00:00:00 UTC< / ><   -- atom >< @ >cloudflare<
+  *    5d   >2020-03-02 00:00:00 UTC<  - >25 reasons to switch to Webpacker<
+  *   38d   >2020-01-29 00:00:00 UTC<  - >A guide to NPM version constraints for Rubyists<
+  *   53d   >2020-01-14 00:00:00 UTC<  - >3 ways Webpack surprises web developers<
+  *   80d   >2019-12-18 00:00:00 UTC<  - >Importing images with Webpacker<
+  *   95d   >2019-12-03 00:00:00 UTC<  - >Overpacking: A common Webpacker mistake<
+  *  103d   >2019-11-25 00:00:00 UTC<  - >Using Bootstrap with Rails Webpacker<
 
-   9d   2020-02-24 18:00:00 UTC -   67 - Remote Ruby Podcast › Chris Oliver, Jason Charnes and Andrew Mason @ https://feeds.transistor.fm/remote-ruby
-   5d    >2020-02-28 22:18:52 UTC< / >2020-02-24 18:00:00 UTC<   -- rss 2.0 >Transistor (https://transistor.fm)<
+   6d   2020-03-01 00:00:00 UTC -   10 (79d) - Ruby on Rails News @ http://weblog.rubyonrails.org/feed/atom.xml
+   5d    >2020-03-02 03:30:32 UTC< / ><   -- atom >Jekyll< @ >GitHub.com<
+  *    6d   >2020-03-01 00:00:00 UTC<  - >This week in Rails - horizontal sharding, gzip schema cache, database rake tasks<
+  *   15d   >2020-02-21 00:00:00 UTC<  - >Strict loading in Active Record and more<
+  *   27d   >2020-02-09 00:00:00 UTC<  - >This week in Rails - PostgreSQL 11 partitioned indexes support and more!<
+  *   48d   >2020-01-19 00:00:00 UTC<  - >This week in Rails - Rack 2.1 released, disallowed deprecations, and more!<
+  *   56d   >2020-01-11 00:00:00 UTC<  - >This week in Rails - Deprecations, bugfixes and improvements!<
+  *   62d   >2020-01-05 00:00:00 UTC<  - >This week in Rails - The 2019 edition<
 
-  13d   2020-02-20 00:00:00 UTC -   20 - Ryan Bigg @ http://feeds.feedburner.com/ryanbigg?format=xml
-  12d    >2020-02-21 04:47:25 UTC< / ><   -- atom ><
+   6d   2020-03-01 00:00:00 UTC -    5 (59d) - Andy Croll @ https://andycroll.com/rss.xml
+   1d    >2020-03-06 18:09:21 UTC< / ><   -- atom >Jekyll< @ >Netlify<
+  *    6d   >2020-03-01 00:00:00 UTC<  - >‘Fix’ first & last by explicitly setting implicit ordering<
+  *   20d   >2020-02-16 00:00:00 UTC<  - >All Your Mailer Views in One Place<
+  *   34d   >2020-02-02 00:00:00 UTC<  - >Calculate a mean average from a Ruby array<
+  *   47d   >2020-01-20 00:00:00 UTC<  - >Be Suspicious of Join Tables<
+  *   65d   >2020-01-02 14:00:00 UTC<  - >Year in Review 2019<
 
-  14d   2020-02-19 21:44:49 UTC -    3 - Amazon Web Services (AWS) Compute News @ https://aws.amazon.com/blogs/compute/tag/ruby/feed/
-  14d    >2020-02-19 21:44:49 UTC< / ><   -- rss 2.0 ><
+   8d   2020-02-28 00:00:00 UTC -  341 (2452d) - Rails Girls Summer of Code News @ https://railsgirlssummerofcode.org/blog.xml
+   2d    >2020-03-05 15:50:33 UTC< / ><   -- atom >< @ >Netlify<
+  *    8d   >2020-02-28 00:00:00 UTC<  - >RGSoC 2020 student applications are open!<
+  *   19d   >2020-02-17 00:00:00 UTC<  - >Alumni Interview with Ipshita Chatterjee<
+  *   43d   >2020-01-24 00:00:00 UTC<  - >Crowdfunding for 2020 scholarships has commenced<
+  *   47d   >2020-01-20 00:00:00 UTC<  - >Alumni Interview with Keziah Naggita<
+  *   64d   >2020-01-03 00:00:00 UTC<  - >Submit Your Open Source Projects<
+  *   96d   >2019-12-02 00:00:00 UTC<  - >Join the New RGSoC Orga Team<
 
-  14d   2020-02-19 00:00:00 UTC -  190 - RubyGems News @ http://blog.rubygems.org/atom.xml
-  15d    >2020-02-18 23:49:14 UTC< / ><   -- atom ><
+   8d   2020-02-28 00:00:00 UTC -    9 (641d) - Jamie Schembri @ https://blog.schembri.me/index.xml
+ 563d    >2018-08-22 00:00:00 UTC< / ><   -- rss 2.0 >Hugo -- gohugo.io< @ >Netlify<
+  *    8d   >2020-02-28 00:00:00 UTC<  - >Benchmarking Ruby 2.7.0's Numbered Parameters<
+  *    9d   >2020-02-27 00:00:00 UTC<  - >Faster Excel Parsing in Ruby<
+  *  118d   >2019-11-10 14:28:28 UTC<  - >Seamless HomeAssistant Config With Git<
+  *  140d   >2019-10-19 00:00:00 UTC<  - >Powering a Windows PC via HomeAssistant<
+  *  305d   >2019-05-07 00:00:00 UTC<  - >The Case of Growing Disk Usage with Logrotate and Sidekiq<
+  *  321d   >2019-04-21 10:19:21 UTC<  - >Syncing HomeAssistant With GitHub<
 
-  16d   2020-02-17 18:06:18 UTC -   10 - Ruby Guides › Jesus Castello @ https://www.rubyguides.com/feed/
-   9d    >2020-02-24 17:18:11 UTC< / ><   -- rss 2.0 >https://wordpress.org/?v=4.9.13<
+   9d   2020-02-27 12:00:00 UTC -  308 (4069d) - Ruby on Rails Podcast › Brittany Martin @ http://feeds.5by5.tv/rubyonrails
+   9d    >< / >2020-02-27 12:00:00 UTC<   -- rss 2.0 >< @ >cloudflare<
+  *    9d   >2020-02-27 12:00:00 UTC<  - >308: Open Source Groundskeeping with Kurtis Rainbolt-Greene<
+  *   23d   >2020-02-13 15:30:00 UTC<  - >307: Choosing the Right Tech Stack with Dave Paola<
+  *   31d   >2020-02-05 13:00:00 UTC<  - >306: Ask For The Job with Brian Mariani (Part II)<
+  *   37d   >2020-01-30 13:00:00 UTC<  - >305: Rails Camp USA with Bobbilee Hartman<
+  *   44d   >2020-01-23 12:00:00 UTC<  - >304: Legacy Code Wisdom with Alexey Chernov<
+  *   51d   >2020-01-16 12:00:00 UTC<  - >303: Site Reliability at DEV with Molly Struve<
 
-  21d   2020-02-12 09:16:00 UTC -   10 - Fast Ruby Blog › Ombu Labs @ https://fastruby.io/blog/rss.xml
-  21d    >2020-02-12 16:08:47 UTC< / ><   -- atom >Jekyll<
+  10d   2020-02-26 13:23:35 UTC -   10 (691d) - Hanami News @ https://hanamirb.org/atom.xml
+  10d    >2020-02-26 13:23:35 UTC< / ><   -- atom >< @ >GitHub.com<
+  *   10d   >2020-02-26 13:23:35 UTC<  - >Introducing Hanami::API<
+  *  169d   >2019-09-20 09:18:18 UTC<  - >Announcing Hanami v1.3.3<
+  *  225d   >2019-07-26 13:45:33 UTC<  - >Announcing Hanami Validations v2.0.0.alpha1<
+  *  225d   >2019-07-26 13:22:47 UTC<  - >Announcing Hanami v1.3.2<
+  *  402d   >2019-01-30 13:24:51 UTC<  - >Announcing Hanami v2.0.0.alpha1<
+  *  414d   >2019-01-18 18:26:43 UTC<  - >Announcing Hanami v1.3.1<
 
-  22d   2020-02-11 23:00:00 UTC -    6 - Ruby Magic Blog › App Signal @ https://blog.appsignal.com/ruby-magic-feed.xml
-  22d    >2020-02-11 23:00:00 UTC< / ><   -- atom ><
+  12d   2020-02-24 23:00:00 UTC -    3 (247d) - Deep Dive › Hrvoje Šimić @ https://deepdive.sh/feed.xml
+   ?     >< / ><   -- rss 2.0 >< @ >GitHub.com<
+  *   12d   >2020-02-24 23:00:00 UTC<  - >Deep dive into rackup<
+  *   71d   >2019-12-27 23:00:00 UTC<  - >Deep dive into Did You Mean<
+  *  259d   >2019-06-22 22:00:00 UTC<  - >Deep dive into Minitest<
 
-  29d   2020-02-04 08:00:00 UTC -   10 - Learn Enough to Be Dangerous (incl. Ruby on Rails Tutorial) › Michael Hartl @ https://news.learnenough.com/feed.xml
-  28d    >2020-02-05 18:18:11 UTC< / ><   -- atom >Jekyll<
+  16d   2020-02-20 00:00:00 UTC -   20 (567d) - Ryan Bigg @ http://feeds.feedburner.com/ryanbigg?format=xml
+  15d    >2020-02-21 04:47:25 UTC< / ><   -- atom >< @ >GSE<
+  *   16d   >2020-02-20 00:00:00 UTC<  - >ROM and Dry Showcase: Part 4<
+  *   33d   >2020-02-03 00:00:00 UTC<  - >ROM + Dry Showcase: Part 3 - Testing<
+  *   34d   >2020-02-02 00:00:00 UTC<  - >ROM + Dry Showcase: Part 2 - Validations & Transactions<
+  *   35d   >2020-02-01 00:00:00 UTC<  - >ROM + Dry Showcase: Part 1 - Application + Database setup<
+  *   48d   >2020-01-19 00:00:00 UTC<  - >Getting Started with Rails: Extended Edition<
+  *  100d   >2019-11-28 00:00:00 UTC<  - >They fixed the keyboard<
 
-  36d   2020-01-28 01:00:00 UTC -   10 - Ruby Tuesday › Paweł Świątkowski @ https://rubytuesday.katafrakt.me/feed.xml
-  36d    >2020-01-28 20:23:33 UTC< / >2020-01-28 20:23:33 UTC<   -- rss 2.0 >Jekyll v4.0.0.pre.alpha1<
+  17d   2020-02-19 21:44:49 UTC -    3 (1167d) - Amazon Web Services (AWS) Compute News @ https://aws.amazon.com/blogs/compute/tag/ruby/feed/
+  17d    >2020-02-19 21:44:49 UTC< / ><   -- rss 2.0 >< @ >Server<
+  *   17d   >2020-02-19 21:44:49 UTC<  - >AWS Lambda now supports Ruby 2.7<
+  *  464d   >2018-11-29 17:48:49 UTC<  - >Announcing Ruby Support for AWS Lambda<
+  * 1184d   >2016-12-09 21:57:53 UTC<  - >Scripting Languages for AWS Lambda: Running PHP, Ruby, and Go<
 
-  41d   2020-01-23 23:09:42 UTC -   70 - Andrew Kane @ https://ankane.org/feed.rss
-   ?     >< / ><   -- rss 2.0 ><
+  17d   2020-02-19 00:00:00 UTC -  190 (5820d) - RubyGems News @ http://blog.rubygems.org/atom.xml
+  18d    >2020-02-18 23:49:14 UTC< / ><   -- atom >< @ >GitHub.com<
+  *   17d   >2020-02-19 00:00:00 UTC<  - >3.0.8 Released<
+  *   18d   >2020-02-18 00:00:00 UTC<  - >3.0.7 Released<
+  *   78d   >2019-12-20 00:00:00 UTC<  - >3.1.2 Released<
+  *   82d   >2019-12-16 00:00:00 UTC<  - >3.1.1 Released<
+  *   82d   >2019-12-16 00:00:00 UTC<  - >3.1.0 Released<
+  *  169d   >2019-09-20 00:00:00 UTC<  - >RubyGems.org and Chef Gem Ownership<
 
-  44d   2020-01-20 08:00:32 UTC -    4 - Vladimir Makarov, Red Hat @ https://developers.redhat.com/blog/author/vnmakarov/feed/
-   1d    >2020-03-03 12:07:27 UTC< / ><   -- rss 2.0 >https://wordpress.org/?v=5.1.4<
+  19d   2020-02-17 18:06:18 UTC -   10 (119d) - Ruby Guides › Jesus Castello @ https://www.rubyguides.com/feed/
+   3d    >2020-03-04 21:11:20 UTC< / ><   -- rss 2.0 >https://wordpress.org/?v=4.9.13< @ >nginx/1.14.2<
+  *   19d   >2020-02-17 18:06:18 UTC<  - >How to Work With Directories in Ruby<
+  *   32d   >2020-02-04 15:21:24 UTC<  - >7 Major Differences Between Java & Ruby<
+  *   61d   >2020-01-06 17:39:25 UTC<  - >How to Use Rails Helpers (Complete Guide)<
+  *   82d   >2019-12-16 19:19:21 UTC<  - >Understanding Yield & Yield_Self in Ruby (Complete Guide)<
+  *   89d   >2019-12-09 14:56:01 UTC<  - >New Features, Methods & Improvements in Ruby 2.7<
+  *  103d   >2019-11-25 15:14:16 UTC<  - >Ruby Programming Uses: What Can You Create?<
 
-  51d   2020-01-13 14:00:39 UTC -   15 - Aaron Patterson @ http://tenderlovemaking.com/atom.xml
-  51d    >2020-01-13 14:00:39 UTC< / ><   -- atom ><
+  24d   2020-02-12 09:16:00 UTC -   10 (135d) - Fast Ruby Blog › Ombu Labs @ https://fastruby.io/blog/rss.xml
+  24d    >2020-02-12 16:08:47 UTC< / ><   -- atom >Jekyll< @ >Cowboy<
+  *   24d   >2020-02-12 09:16:00 UTC<  - >How to Calculate Tech Debt Using Skunk on GitHub Actions<
+  *   31d   >2020-02-05 10:30:00 UTC<  - >Gemifying your style guide to DRY your CSS<
+  *   38d   >2020-01-29 13:00:00 UTC<  - >Why Is It Important to Upgrade Your Rails Application?<
+  *   46d   >2020-01-21 13:00:00 UTC<  - >The Complete Guide to Migrate to Strong Parameters<
+  *   88d   >2019-12-10 10:00:00 UTC<  - >Escaping The Tar Pit: Introducing Skunk v0.3.2 at RubyConf 2019<
+  *  113d   >2019-11-15 10:00:00 UTC<  - >Merging Multiple SimpleCov Coverage Results<
 
-  52d   2020-01-12 23:00:00 UTC -    9 - Benoit Daloze @ https://eregon.me/blog/feed.xml
-  48d    >2020-01-16 07:48:37 UTC< / ><   -- atom >Jekyll<
+  32d   2020-02-04 08:00:00 UTC -   10 (441d) - Learn Enough to Be Dangerous (incl. Ruby on Rails Tutorial) › Michael Hartl @ https://news.learnenough.com/feed.xml
+  31d    >2020-02-05 18:18:11 UTC< / ><   -- atom >Jekyll< @ >cloudflare<
+  *   32d   >2020-02-04 08:00:00 UTC<  - >New Discounted Learn Enough Bundles<
+  *  123d   >2019-11-05 08:00:00 UTC<  - >The Learn Enough HTML Difference<
+  *  129d   >2019-10-30 07:00:00 UTC<  - >The Third Skill Is… Version Control?!<
+  *  156d   >2019-10-03 07:00:00 UTC<  - >The Ruby on Rails Tutorial, 6th Edition<
+  *  180d   >2019-09-09 07:00:00 UTC<  - >Full Draft of the Ruby on Rails Tutorial 6th Edition<
+  *  204d   >2019-08-16 07:00:00 UTC<  - >Ruby on Rails 6<
 
-  55d   2020-01-09 00:00:00 UTC -   15 - Ruby Toolbox News › Christoph Olszowka @ https://www.ruby-toolbox.com/blog.rss
-   ?     >< / ><   -- rss 2.0 ><
+  39d   2020-01-28 01:00:00 UTC -   10 (679d) - Ruby Tuesday › Paweł Świątkowski @ https://rubytuesday.katafrakt.me/feed.xml
+  39d    >2020-01-28 20:23:33 UTC< / >2020-01-28 20:23:33 UTC<   -- rss 2.0 >Jekyll v4.0.0.pre.alpha1< @ >cloudflare<
+  *   39d   >2020-01-28 01:00:00 UTC<  - >Issue #19<
+  *   81d   >2019-12-17 01:00:00 UTC<  - >Issue #18<
+  *  354d   >2019-03-19 01:00:00 UTC<  - >Issue #17<
+  *  368d   >2019-03-05 01:00:00 UTC<  - >Issue #16<
+  *  417d   >2019-01-15 01:00:00 UTC<  - >Issue #15<
+  *  501d   >2018-10-23 01:00:00 UTC<  - >Issue #14<
 
-  59d   2020-01-05 00:00:00 UTC -   10 - Ruby Installer for Windows News @ https://rubyinstaller.org/feed.xml
-  38d    >2020-01-26 17:56:14 UTC< / ><   -- atom >Jekyll<
+  44d   2020-01-23 23:09:42 UTC -   70 (1759d) - Andrew Kane @ https://ankane.org/feed.rss
+   ?     >< / ><   -- rss 2.0 >< @ >nginx<
+  *   44d   >2020-01-23 23:09:42 UTC<  - >Ruby ML for Python Coders<
+  *   45d   >2020-01-22 23:59:07 UTC<  - >16 New ML Gems for Ruby<
+  *  171d   >2019-09-18 19:25:39 UTC<  - >Daru: Pandas for Ruby<
+  *  172d   >2019-09-17 18:48:05 UTC<  - >Numo: NumPy for Ruby<
+  *  176d   >2019-09-13 23:14:42 UTC<  - >Emotion Recognition in Ruby<
+  *  177d   >2019-09-12 00:07:07 UTC<  - >Artistic Style Transfer in Ruby<
 
-  63d   2020-01-01 00:00:00 UTC -   14 - Sinatra News @ http://sinatrarb.com/feed.xml
-   8d    >2020-02-25 15:29:46 UTC< / ><   -- atom ><
+  47d   2020-01-20 08:00:32 UTC -    4 (1057d) - Vladimir Makarov, Red Hat @ https://developers.redhat.com/blog/author/vnmakarov/feed/
+   1d    >2020-03-06 08:00:18 UTC< / ><   -- rss 2.0 >https://wordpress.org/?v=5.1.4< @ >Apache<
+  *   47d   >2020-01-20 08:00:32 UTC<  - >MIR: A lightweight JIT compiler project<
+  *  382d   >2019-02-19 13:00:06 UTC<  - >Register Transfer Language for CRuby<
+  *  716d   >2018-03-22 10:55:00 UTC<  - >Towards The Ruby 3×3 Performance Goal<
+  * 1104d   >2017-02-27 12:04:45 UTC<  - >Towards Faster Ruby Hash Tables<
 
-  70d   2019-12-25 13:29:49 UTC -   20 - Richard Schneeman, Heroku @ https://blog.heroku.com/authors/richard-schneeman/feed
-   ?     >< / ><   -- rss 2.0 ><
+  54d   2020-01-13 14:00:39 UTC -   15 (2049d) - Aaron Patterson @ http://tenderlovemaking.com/atom.xml
+  54d    >2020-01-13 14:00:39 UTC< / ><   -- atom >< @ >Apache<
+  *   54d   >2020-01-13 14:00:39 UTC<  - >Guide to String Encoding in Ruby<
+  *  147d   >2019-10-12 19:40:41 UTC<  - >My Career Goals<
+  *  186d   >2019-09-03 15:20:26 UTC<  - >ESP8266 and Plantower Particle Sensor<
+  *  255d   >2019-06-26 15:14:14 UTC<  - >Instance Variable Performance<
+  *  754d   >2018-02-12 18:00:00 UTC<  - >Speeding up Ruby with Shared Strings<
+  *  774d   >2018-01-23 21:36:37 UTC<  - >Reducing Memory Usage in Ruby<
 
-  70d   2019-12-25 00:00:00 UTC -   10 - Ruby Lang News @ http://www.ruby-lang.org/en/feeds/news.rss
-   ?     >< / ><   -- rss 2.0 ><
+  55d   2020-01-12 23:00:00 UTC -    9 (1629d) - Benoit Daloze @ https://eregon.me/blog/feed.xml
+  51d    >2020-01-16 07:48:37 UTC< / ><   -- atom >Jekyll< @ >nginx/1.6.2<
+  *   55d   >2020-01-12 23:00:00 UTC<  - >A Migration Path to Bundler 2+<
+  *  119d   >2019-11-09 23:00:00 UTC<  - >The Delegation Challenge of Ruby 2.7<
+  *  153d   >2019-10-06 22:00:00 UTC<  - >A New Expectation Syntax for ruby/spec<
+  *  319d   >2019-04-23 22:00:00 UTC<  - >How TruffleRuby’s Startup Time Became Faster Than MRI’s<
+  *  748d   >2018-02-18 23:00:00 UTC<  - >TruffleRuby Native: Fast Even for Short Scripts<
+  *  756d   >2018-02-10 23:00:00 UTC<  - >From an obfuscated Sudoku to Fibers and coroutines<
 
-  73d   2019-12-22 07:00:00 UTC -   10 - Speedshop - Ruby on Rails Performance › Nate Berkopec @ https://www.speedshop.co/feed.xml
-   8d    >2020-02-25 08:53:41 UTC< / >2020-02-25 08:53:41 UTC<   -- rss 2.0 >Jekyll v3.8.6<
+  58d   2020-01-09 00:00:00 UTC -   15 (707d) - Ruby Toolbox News › Christoph Olszowka @ https://www.ruby-toolbox.com/blog.rss
+   ?     >< / ><   -- rss 2.0 >< @ >Cowboy<
+  *   58d   >2020-01-09 00:00:00 UTC<  - >Rubygem Release History Heatmaps<
+  *  311d   >2019-05-01 00:00:00 UTC<  - >Time Flies<
+  *  373d   >2019-02-28 00:00:00 UTC<  - >Trending Projects<
+  *  376d   >2019-02-25 00:00:00 UTC<  - >Historical Rubygem Download Charts<
+  *  387d   >2019-02-14 00:00:00 UTC<  - >Project Comparisons<
+  *  401d   >2019-01-31 00:00:00 UTC<  - >Alternate Project Display Modes<
 
-  77d   2019-12-18 00:00:00 UTC -   10 - Richard Schneeman @ http://www.schneems.com/feed.xml
-   ?     >< / ><   -- rss 2.0 ><
+  62d   2020-01-05 00:00:00 UTC -   10 (742d) - Ruby Installer for Windows News @ https://rubyinstaller.org/feed.xml
+  41d    >2020-01-26 17:56:14 UTC< / ><   -- atom >Jekyll< @ >cloudflare<
+  *   62d   >2020-01-05 00:00:00 UTC<  - >RubyInstaller 2.7.0-1 released<
+  *  157d   >2019-10-02 00:00:00 UTC<  - >RubyInstaller 2.6.5-1, 2.5.7-1 and 2.4.9-1 released<
+  *  179d   >2019-09-10 00:00:00 UTC<  - >RubyInstaller 2.6.4-1, 2.5.6-1 and 2.4.7-1 released<
+  *  426d   >2019-01-06 00:00:00 UTC<  - >RubyInstaller 2.6.0-1 released<
+  *  503d   >2018-10-21 00:00:00 UTC<  - >RubyInstaller 2.5.3-1 and 2.4.5-1 with code signature released<
+  *  622d   >2018-06-24 00:00:00 UTC<  - >RubyInstaller 2.5.1-2 and 2.4.4-2 released<
 
- 138d   2019-10-18 00:00:00 UTC -   10 - Victor Shepelev @ https://zverok.github.io/feed.xml
-  35d    >2020-01-29 16:39:49 UTC< / >2020-01-29 16:39:49 UTC<   -- rss 2.0 >Jekyll v3.8.5<
+  66d   2020-01-01 00:00:00 UTC -   14 (4000d) - Sinatra News @ http://sinatrarb.com/feed.xml
+  11d    >2020-02-25 15:29:46 UTC< / ><   -- atom >< @ >GitHub.com<
+  *   66d   >2020-01-01 00:00:00 UTC<  - >Happy new year & Sinatra 2.0.8!<
+  *  199d   >2019-08-21 00:00:00 UTC<  - >A new maintainer and Sinatra 2.0.6!<
+  *  440d   >2018-12-23 00:00:00 UTC<  - >Sinatra 2.0.5<
+  *  637d   >2018-06-09 00:00:00 UTC<  - >Sinatra 2.0.2 and 2.0.3 are out<
+  *  730d   >2018-03-08 00:00:00 UTC<  - >Rack::Protection v1.5.5 is out<
+  *  747d   >2018-02-19 00:00:00 UTC<  - >Sinatra 2.0.1 is out!<
 
- 141d   2019-10-15 05:18:18 UTC -   10 - Sam Saffron @ http://samsaffron.com/posts.rss
-   ?     >< / ><   -- rss 2.0 ><
+  73d   2019-12-25 13:29:49 UTC -   20 (2492d) - Richard Schneeman, Heroku @ https://blog.heroku.com/authors/richard-schneeman/feed
+   ?     >< / ><   -- rss 2.0 >< @ >Cowboy<
+  *   73d   >2019-12-25 13:29:49 UTC<  - >Ruby 2.7.0 Holiday Release<
+  *   80d   >2019-12-18 18:07:00 UTC<  - >The Curious Case of the Table-Locking UPDATE Query<
+  *  239d   >2019-07-12 12:53:00 UTC<  - >Puma 4: Hammering Out H13s—A Debugging Story<
+  *  375d   >2019-02-26 18:30:00 UTC<  - >Debugging in Ruby—Busting a Year-old Bug in Sprockets<
+  *  508d   >2018-10-16 16:43:00 UTC<  - >Cache Invalidation Complexity: Rails 5.2 and Dalli Cache Store<
+  *  627d   >2018-06-19 16:01:00 UTC<  - >Rails Asset Pipeline Directory Traversal Vulnerability (CVE-2018-3760)<
 
- 153d   2019-10-03 00:00:00 UTC -    6 - DRY News @ https://dry-rb.org/feed.xml
- 153d    >2019-10-03 00:00:00 UTC< / ><   -- atom ><
+  73d   2019-12-25 00:00:00 UTC -   10 (85d) - Ruby Lang News @ http://www.ruby-lang.org/en/feeds/news.rss
+   ?     >< / ><   -- rss 2.0 >< @ >Cowboy<
+  *   73d   >2019-12-25 00:00:00 UTC<  - >Ruby 2.7.0 Released<
+  *   77d   >2019-12-21 12:00:00 UTC<  - >Ruby 2.7.0-rc2 Released<
+  *   81d   >2019-12-17 12:00:00 UTC<  - >Ruby 2.7.0-rc1 Released<
+  *   86d   >2019-12-12 12:00:00 UTC<  - >Separation of positional and keyword arguments in Ruby 3.0<
+  *  105d   >2019-11-23 12:00:00 UTC<  - >Ruby 2.7.0-preview3 Released<
+  *  137d   >2019-10-22 12:00:00 UTC<  - >Ruby 2.7.0-preview2 Released<
 
- 168d   2019-09-18 16:09:00 UTC -   10 - Charles Nutter @ http://blog.headius.com/feed.xml
- 167d    >2019-09-19 16:23:58 UTC< / ><   -- atom >Jekyll<
+  76d   2019-12-22 07:00:00 UTC -   10 (1018d) - Speedshop - Ruby on Rails Performance › Nate Berkopec @ https://www.speedshop.co/feed.xml
+  11d    >2020-02-25 08:53:41 UTC< / >2020-02-25 08:53:41 UTC<   -- rss 2.0 >Jekyll v3.8.6< @ >cloudflare<
+  *   76d   >2019-12-22 07:00:00 UTC<  - >The World Follows Power Laws: Why Premature Optimization is Bad<
+  *  264d   >2019-06-17 07:00:00 UTC<  - >Why Your Rails App is Slow: Lessons Learned from 3000+ Hours of Teaching<
+  *  422d   >2019-01-10 07:00:00 UTC<  - >3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Present<
+  *  645d   >2018-06-01 07:00:00 UTC<  - >The Complete Guide to Rails Performance, Version 2<
+  *  710d   >2018-03-28 07:00:00 UTC<  - >A New Ruby Application Server: NGINX Unit<
+  *  824d   >2017-12-04 07:00:00 UTC<  - >Malloc Can Double Multi-threaded Ruby Program Memory Usage<
 
- 168d   2019-09-18 03:09:58 UTC -   15 - Phusion News @ https://blog.phusion.nl/rss/
-   2d    >2020-03-02 04:58:22 UTC< / ><   -- rss 2.0 >Ghost 1.25<
+  80d   2019-12-18 00:00:00 UTC -   10 (597d) - Richard Schneeman @ http://www.schneems.com/feed.xml
+   ?     >< / ><   -- rss 2.0 >< @ >nginx<
+  *   80d   >2019-12-18 00:00:00 UTC<  - >The Curious Case of the Table-Locking UPDATE Query<
+  *  122d   >2019-11-06 00:00:00 UTC<  - >Why does my App's Memory Use Grow Over Time?<
+  *  239d   >2019-07-12 00:00:00 UTC<  - >Puma 4: Hammering Out H13s—A Debugging Story<
+  *  255d   >2019-06-26 00:00:00 UTC<  - >Puma 4: New I/O 4 Your Server<
+  *  498d   >2018-10-26 00:00:00 UTC<  - >Blockwalk for Beto: Enter to win my Technical Time<
+  *  507d   >2018-10-17 00:00:00 UTC<  - >Cache Invalidation Complexity: Rails 5.2 and Dalli Cache Store<
 
- 197d   2019-08-20 15:00:00 UTC -   10 - Jekyll News @ http://jekyllrb.com/feed.xml
-   2d    >2020-03-02 15:23:12 UTC< / ><   -- atom >Jekyll<
+ 141d   2019-10-18 00:00:00 UTC -   10 (726d) - Victor Shepelev @ https://zverok.github.io/feed.xml
+  38d    >2020-01-29 16:39:49 UTC< / >2020-01-29 16:39:49 UTC<   -- rss 2.0 >Jekyll v3.8.5< @ >GitHub.com<
+  *  141d   >2019-10-18 00:00:00 UTC<  - >Fun with each_with_object and other Enumerator adventures<
+  *  620d   >2018-06-26 00:00:00 UTC<  - >Quest for Ruby Pattern Matching<
+  *  701d   >2018-04-06 00:00:00 UTC<  - >The Missing Ruby Reference<
+  *  715d   >2018-03-23 12:40:00 UTC<  - >More yield_self awesomeness. Also, the new name proposed.<
+  *  736d   >2018-03-02 00:00:00 UTC<  - >Embracing composability: be_json RSpec matcher<
+  *  764d   >2018-02-02 00:00:00 UTC<  - >You should not implement #to_a for your classes<
 
- 202d   2019-08-15 21:16:33 UTC -   14 - Thomas Leitner @ https://gettalong.org/posts.atom
- 200d    >2019-08-17 08:20:27 UTC< / ><   -- atom >webgen - Webgen::PathHandler::Feed<
+ 144d   2019-10-15 05:18:18 UTC -   10 (606d) - Sam Saffron @ http://samsaffron.com/posts.rss
+   ?     >< / ><   -- rss 2.0 >< @ >nginx<
+  *  144d   >2019-10-15 05:18:18 UTC<  - >Debugging hidden memory leaks in Ruby<
+  *  284d   >2019-05-28 06:54:25 UTC<  - >Tests that sometimes fail<
+  *  332d   >2019-04-10 02:12:04 UTC<  - >My i3 window manager setup<
+  *  342d   >2019-03-31 23:44:35 UTC<  - >Why I stuck with Windows for 6 years while developing Discourse<
+  *  430d   >2019-01-02 07:11:20 UTC<  - >Logster and our error logging strategy at Discourse<
+  *  578d   >2018-08-07 06:06:55 UTC<  - >Finding where STDOUT/STDERR debug messages are coming from<
 
- 212d   2019-08-05 19:19:52 UTC -   20 - Amazon Web Services (AWS) Developer News @ https://aws.amazon.com/blogs/developer/tag/ruby/feed/
-  41d    >2020-01-23 18:26:01 UTC< / ><   -- rss 2.0 ><
+ 156d   2019-10-03 00:00:00 UTC -    6 (636d) - DRY News @ https://dry-rb.org/feed.xml
+ 156d    >2019-10-03 00:00:00 UTC< / ><   -- atom >< @ >GitHub.com<
+  *  156d   >2019-10-03 00:00:00 UTC<  - >Introducing dry-effects<
+  *  271d   >2019-06-10 00:00:00 UTC<  - >dry-validation 1.0.0 released<
+  *  319d   >2019-04-23 00:00:00 UTC<  - >dry-types and dry-struct 1.0.0 released<
+  *  389d   >2019-02-12 00:00:00 UTC<  - >dry-view 0.6.0, an introductory talk, and plans for 1.0<
+  *  620d   >2018-06-26 00:00:00 UTC<  - >dry-monads 1.0 released<
+  *  792d   >2018-01-05 00:00:00 UTC<  - >dry-system 0.9 released with new plugins<
 
- 295d   2019-05-14 00:00:00 UTC -    6 - Bundler News @ http://bundler.io/blog/feed.xml
- 295d    >2019-05-14 00:00:00 UTC< / ><   -- atom ><
+ 171d   2019-09-18 16:09:00 UTC -   10 (2548d) - Charles Nutter @ http://blog.headius.com/feed.xml
+ 170d    >2019-09-19 16:23:58 UTC< / ><   -- atom >Jekyll< @ >GitHub.com<
+  *  171d   >2019-09-18 16:09:00 UTC<  - >Start It Up: Improving JRuby’s Startup Time<
+  *  613d   >2018-07-03 21:45:00 UTC<  - >Running JRuby on the Graal JIT<
+  *  865d   >2017-10-24 15:55:00 UTC<  - >Migrating to Java 9: Modules, Maven, OSGI, Travis CI<
+  * 2117d   >2014-05-21 17:44:00 UTC<  - >JRubyConf.eu 2014!<
+  * 2465d   >2013-06-07 08:58:00 UTC<  - >The Pain of Broken Subprocess Management on JDK<
+  * 2492d   >2013-05-11 10:05:00 UTC<  - >On Languages, VMs, Optimization, and the Way of the World<
 
- 316d   2019-04-23 10:01:48 UTC -   15 - Ryan Davis @ http://blog.zenspider.com/atom.xml
- 316d    >2019-04-23 10:01:48 UTC< / ><   -- atom ><
+ 171d   2019-09-18 03:09:58 UTC -   15 (309d) - Phusion News @ https://blog.phusion.nl/rss/
+   1d    >2020-03-06 09:26:13 UTC< / ><   -- rss 2.0 >Ghost 1.25< @ >nginx/1.14.0 (Ubuntu)<
+  *  171d   >2019-09-18 03:09:58 UTC<  - >Passenger 6.0.4 Debian 10 Buster<
+  *  177d   >2019-09-12 19:17:27 UTC<  - >Passenger 6.0.3 Restarting the Releases<
+  *  359d   >2019-03-14 13:08:19 UTC<  - >What causes Ruby memory bloat?<
+  *  376d   >2019-02-25 19:44:06 UTC<  - >Passenger 6.0.2: Community makes everything better<
+  *  376d   >2019-02-25 16:04:46 UTC<  - >Bringing HBB into the Retro-Future<
+  *  408d   >2019-01-24 16:30:29 UTC<  - >Who takes out your trash?<
 
- 349d   2019-03-21 00:00:00 UTC -   10 - Travis Foundation News @ https://foundation.travis-ci.org/feed.xml
-   1d    >2020-03-03 03:42:07 UTC< / ><   -- atom ><
+ 200d   2019-08-20 15:00:00 UTC -   10 (476d) - Jekyll News @ http://jekyllrb.com/feed.xml
+   1d    >2020-03-06 16:09:21 UTC< / ><   -- atom >Jekyll< @ >GitHub.com<
+  *  200d   >2019-08-20 15:00:00 UTC<  - >Jekyll 4.0.0 Released<
+  *  216d   >2019-08-04 15:43:31 UTC<  - >Jekyll 4.0.0.pre.beta1 Released<
+  *  249d   >2019-07-02 15:21:02 UTC<  - >Jekyll 3.8.6 Released<
+  *  355d   >2019-03-18 17:17:31 UTC<  - >Jekyll 4.0.0.pre.alpha1 Released<
+  *  489d   >2018-11-04 19:58:20 UTC<  - >Jekyll 3.8.5 Released<
+  *  535d   >2018-09-19 12:30:00 UTC<  - >Security Fixes for series 3.6, 3.7 and 3.8<
 
- 394d   2019-02-04 00:00:00 UTC -   10 - Ruby Pigeon › Tom Dalling @ https://www.rubypigeon.com/feed.xml
- 394d    >2019-02-04 07:28:43 UTC< / ><   -- atom >Jekyll<
+ 205d   2019-08-15 21:16:33 UTC -   14 (1076d) - Thomas Leitner @ https://gettalong.org/posts.atom
+ 203d    >2019-08-17 08:20:27 UTC< / ><   -- atom >webgen - Webgen::PathHandler::Feed< @ >Apache/2.2.15 (CentOS)<
+  *  205d   >2019-08-15 21:16:33 UTC<  - >On maintaining webgen<
+  *  498d   >2018-10-26 06:41:51 UTC<  - >kramdown 2.0 and beyond<
+  *  633d   >2018-06-13 18:56:47 UTC<  - >Privacy Enhancements<
+  *  801d   >2017-12-27 14:48:05 UTC<  - >Ruby 2.5 Is Out - Let's Benchmark<
+  *  858d   >2017-10-31 21:06:48 UTC<  - >Memory Conscious Programming in Ruby<
+  *  882d   >2017-10-07 11:50:21 UTC<  - >PDF Filter Implementation in HexaPDF Using Fibers<
 
- 629d   2018-06-14 04:18:59 UTC -    1 - Amazon Web Services (AWS) Open Source News @ https://aws.amazon.com/blogs/opensource/tag/ruby/feed/
-  61d    >2020-01-03 04:50:33 UTC< / ><   -- rss 2.0 ><
+ 215d   2019-08-05 19:19:52 UTC -   20 (1623d) - Amazon Web Services (AWS) Developer News @ https://aws.amazon.com/blogs/developer/tag/ruby/feed/
+  44d    >2020-01-23 18:26:01 UTC< / ><   -- rss 2.0 >< @ >Server<
+  *  215d   >2019-08-05 19:19:52 UTC<  - >Introducing the ‘aws-rails-provisioner’ gem developer preview<
+  *  351d   >2019-03-22 02:13:00 UTC<  - >Announcing Amazon Transcribe streaming transcription support in the AWS SDK for Ruby<
+  *  358d   >2019-03-15 02:29:44 UTC<  - >Announcing Amazon Kinesis SubscribeToShard API Support in the AWS SDK for Ruby<
+  *  393d   >2019-02-08 18:31:07 UTC<  - >Introducing Transaction Support in aws-record<
+  *  442d   >2018-12-21 20:14:07 UTC<  - >Announcing Ruby build support for AWS SAM CLI<
+  *  572d   >2018-08-13 16:18:54 UTC<  - >Advanced client stubbing in the AWS SDK for Ruby Version 3<
 
- 643d   2018-05-31 00:00:00 UTC -   66 - Idiosyncratic Ruby › Jan Lelis @ https://idiosyncratic-ruby.com/feed.xml
- 643d    >2018-05-31 00:00:00 UTC< / ><   -- atom ><
+ 298d   2019-05-14 00:00:00 UTC -    6 (157d) - Bundler News @ http://bundler.io/blog/feed.xml
+ 298d    >2019-05-14 00:00:00 UTC< / ><   -- atom >< @ >GitHub.com<
+  *  298d   >2019-05-14 00:00:00 UTC<  - >Solutions for 'Cant find gem bundler (>= 0.a) with executable bundle'<
+  *  361d   >2019-03-12 00:00:00 UTC<  - >January and February Bundler Update<
+  *  399d   >2019-02-02 00:00:00 UTC<  - >December 2018 Bundler Update<
+  *  428d   >2019-01-04 00:00:00 UTC<  - >An update on the Bundler 2 release<
+  *  429d   >2019-01-03 00:00:00 UTC<  - >Announcing Bundler 2.0<
+  *  455d   >2018-12-08 00:00:00 UTC<  - >November 2018 Bundler Update<
 
-   ?     -   63 - Ruby Together News @ https://rubytogether.org/news.xml
- 139d    >2019-10-17 00:00:00 UTC< / ><   -- atom ><
+ 319d   2019-04-23 10:01:48 UTC -   15 (1470d) - Ryan Davis @ http://blog.zenspider.com/atom.xml
+ 319d    >2019-04-23 10:01:48 UTC< / ><   -- atom >< @ >Apache<
+  *  319d   >2019-04-23 10:01:48 UTC<  - >Ruby QuickRef<
+  *  474d   >2018-11-19 20:00:00 UTC<  - >Speaker Pro-Tips<
+  *  480d   >2018-11-13 22:16:44 UTC<  - >Graphics and Simulations (and Games), Oh My!<
+  *  641d   >2018-06-05 19:00:00 UTC<  - >Interesting Problems: Mondrian<
+  *  654d   >2018-05-23 20:15:42 UTC<  - >The Art of Asking<
+  *  683d   >2018-04-24 20:13:50 UTC<  - >Minitest 6: Test Feistier!<
+
+ 352d   2019-03-21 00:00:00 UTC -   10 (958d) - Travis Foundation News @ https://foundation.travis-ci.org/feed.xml
+   1d    >2020-03-06 18:48:22 UTC< / ><   -- atom >< @ >Cowboy<
+  *  352d   >2019-03-21 00:00:00 UTC<  - >A new name for RGSoC<
+  *  439d   >2018-12-24 00:00:00 UTC<  - >An Advent Calendar with 74 windows<
+  *  479d   >2018-11-14 00:00:00 UTC<  - >6 months working on Diversity Tickets<
+  *  592d   >2018-07-24 00:00:00 UTC<  - >Diversity Tickets meets Prototype Fund<
+  *  941d   >2017-08-09 00:00:00 UTC<  - >Not so hidden figures - Organizing ScriptConf<
+  * 1170d   >2016-12-23 00:00:00 UTC<  - >2016 in Review<
+
+ 397d   2019-02-04 00:00:00 UTC -   10 (715d) - Ruby Pigeon › Tom Dalling @ https://www.rubypigeon.com/feed.xml
+ 397d    >2019-02-04 07:28:43 UTC< / ><   -- atom >Jekyll< @ >cloudflare<
+  *  397d   >2019-02-04 00:00:00 UTC<  - >Dream Code First<
+  *  403d   >2019-01-29 00:00:00 UTC<  - >ValueSemantics—A Gem for Making Value Classes<
+  *  495d   >2018-10-29 00:00:00 UTC<  - >Forms—Comparing Django to Rails<
+  *  576d   >2018-08-09 00:00:00 UTC<  - >Dependency Injection Containers vs Hard-coded Constants<
+  *  683d   >2018-04-24 00:00:00 UTC<  - >Testing Example Code In Your Jekyll Posts<
+  *  864d   >2017-10-25 00:00:00 UTC<  - >Replacing Mocks With Hand-Written Test Doubles<
+
+ 632d   2018-06-14 04:18:59 UTC -    1 (?) - Amazon Web Services (AWS) Open Source News @ https://aws.amazon.com/blogs/opensource/tag/ruby/feed/
+  64d    >2020-01-03 04:50:33 UTC< / ><   -- rss 2.0 >< @ >Server<
+  *  632d   >2018-06-14 04:18:59 UTC<  - >Announcing aws-record-generator<
+
+ 646d   2018-05-31 00:00:00 UTC -   66 (1126d) - Idiosyncratic Ruby › Jan Lelis @ https://idiosyncratic-ruby.com/feed.xml
+ 646d    >2018-05-31 00:00:00 UTC< / ><   -- atom >< @ >nginx<
+  *  646d   >2018-05-31 00:00:00 UTC<  - >Ruby has Character<
+  *  662d   >2018-05-15 00:00:00 UTC<  - >Warning: The Module<
+  *  670d   >2018-05-07 00:00:00 UTC<  - >What the Regex?<
+  *  675d   >2018-05-02 00:00:00 UTC<  - >idiosyncratic_eval<
+  * 1376d   >2016-05-31 00:00:00 UTC<  - >Less Feature-Rich, More Fun<
+  * 1377d   >2016-05-30 00:00:00 UTC<  - >Meta Escape Control<
+
+!!!! WARN - 63 dates missing !!!!
+   ?     -   63 (?) - Ruby Together News @ https://rubytogether.org/news.xml
+ 142d    >2019-10-17 00:00:00 UTC< / ><   -- atom >< @ >Cowboy<
+  *    ?    ><  - >Growing Ruby Together<
+  *    ?    ><  - >June 2019 Monthly Update<
+  *    ?    ><  - >Helping Everyone Learn To Code<
+  *    ?    ><  - >Career Switching Into Code<
+  *    ?    ><  - >May 2019 Monthly Update<
+  *    ?    ><  - >April 2019 Monthly Update<
