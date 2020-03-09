@@ -41,7 +41,7 @@ xml =<<XML
 <opml version="1.1">
   <head>
 #{head}
-    <dateCreated>#{Time.now.utc.rfc822}</dateCreated>
+    <dateModified>#{Time.now.utc.rfc822}</dateModified>
   </head>
   <body>
 #{body}
